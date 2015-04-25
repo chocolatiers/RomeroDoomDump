@@ -1,0 +1,8 @@
+FirstResponder = {
+    ACTIONS = {
+    };
+    SUPERCLASS = Object;
+};
+ThingPalView = {
+    SUPERCLASS = View;
+};

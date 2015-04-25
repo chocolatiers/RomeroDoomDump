@@ -1,0 +1,21 @@
+FirstResponder = {
+    ACTIONS = {
+    };
+    SUPERCLASS = Object;
+};
+ThingPalette = {
+    ACTIONS = {
+	menuTarget:;
+    };
+    OUTLETS = {
+	thingImages;
+	nameField_i;
+	thingPalView_i;
+	window_i;
+	thingPalScrView_i;
+    };
+    SUPERCLASS = Object;
+};
+ThingPalView = {
+    SUPERCLASS = View;
+};

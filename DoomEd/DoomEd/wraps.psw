@@ -1,0 +1,16 @@
+#import <appkit/appkit.h>
+
+defineps PSWHitPath (
+	float numstring HPts[Tot_HPts]; 
+	int Tot_HPts; 
+	char HOps[Tot_HOps]; 
+	int Tot_HOps; 
+	float numstring Pts[Tot_Pts]; 
+	int Tot_Pts ; 
+	char Ops[Tot_Ops] ; 
+	int Tot_Ops 
+	| boolean *Hit)
+	
+	[HPts (HOps)] [Pts (Ops)] inustroke Hit
+endps
+

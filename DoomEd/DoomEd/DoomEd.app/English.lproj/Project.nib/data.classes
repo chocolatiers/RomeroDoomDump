@@ -1,0 +1,46 @@
+DoomProject = {
+    ACTIONS = {
+	removeMap:;
+	loadAndSaveAllMaps:;
+	newProject:;
+	toggleWeapons:;
+	togglePanel:;
+	printSingleMapStatistics:;
+	openMap:;
+	printPrefs:;
+	displayLog:;
+	toggleItems:;
+	toggleMonsters:;
+	saveProject:;
+	newMap:;
+	reloadProject:;
+	openProject:;
+	printMap:;
+	printAllMaps:;
+	menuTarget:;
+	printStatistics:;
+    };
+    OUTLETS = {
+	printPrefWindow_i;
+	maps_i;
+	thingPanel_i;
+	projectpath_i;
+	thermoTitle_i;
+	BSPhost_i;
+	BSPprogram_i;
+	thermoView_i;
+	mapwaddir_i;
+	thermoMsg_i;
+	window_i;
+	wadpath_i;
+	mapNameField_i;
+	thermoWindow_i;
+	findPanel_i;
+    };
+    SUPERCLASS = Object;
+};
+FirstResponder = {
+    ACTIONS = {
+    };
+    SUPERCLASS = Object;
+};

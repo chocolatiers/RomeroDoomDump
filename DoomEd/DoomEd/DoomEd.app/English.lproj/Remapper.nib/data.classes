@@ -1,0 +1,27 @@
+Remapper = {
+    ACTIONS = {
+	deleteFromList:;
+	remapGetButtons:;
+	doRemappingOneMap:;
+	clearList:;
+	doRemappingAllMaps:;
+	addToList:;
+    };
+    OUTLETS = {
+	remapString_i;
+	new_i;
+	matrix_i;
+	delegate_i;
+	status_i;
+	remapPanel_i;
+	original_i;
+	browser_i;
+	storage_i;
+    };
+    SUPERCLASS = Object;
+};
+FirstResponder = {
+    ACTIONS = {
+    };
+    SUPERCLASS = Object;
+};

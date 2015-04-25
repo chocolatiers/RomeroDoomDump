@@ -1,0 +1,20 @@
+FirstResponder = {
+    ACTIONS = {
+    };
+    SUPERCLASS = Object;
+};
+ProjectInfo = {
+    ACTIONS = {
+	deleteInfo:;
+	done:;
+	chooseFile:;
+	addInfo:;
+    };
+    OUTLETS = {
+	browser_i;
+	WADfield_i;
+	textureName_i;
+	panel_i;
+    };
+    SUPERCLASS = Object;
+};

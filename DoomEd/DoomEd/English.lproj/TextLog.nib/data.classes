@@ -1,0 +1,15 @@
+TextLog = {
+    ACTIONS = {
+	clear:;
+    };
+    OUTLETS = {
+	text_i;
+	window_i;
+    };
+    SUPERCLASS = Object;
+};
+FirstResponder = {
+    ACTIONS = {
+    };
+    SUPERCLASS = Object;
+};

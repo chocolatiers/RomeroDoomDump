@@ -1,0 +1,20 @@
+FindLine = {
+    ACTIONS = {
+	menuTarget:;
+	deleteLine:;
+	findLine:;
+    };
+    OUTLETS = {
+	fromBSP_i;
+	window_i;
+	delSound;
+	numfield_i;
+	status_i;
+    };
+    SUPERCLASS = Object;
+};
+FirstResponder = {
+    ACTIONS = {
+    };
+    SUPERCLASS = Object;
+};

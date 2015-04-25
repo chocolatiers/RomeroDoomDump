@@ -1,0 +1,39 @@
+TexturePalette = {
+    ACTIONS = {
+	saveAllTexturesAsLBM:;
+	showTextureInMap:;
+	searchWidth:;
+	searchHeight:;
+	menuTarget:;
+	doSaveAllTexturesAsLBM:;
+	searchForTexture:;
+	saveTextureLBM:;
+    };
+    OUTLETS = {
+	heightField_i;
+	titleField_i;
+	newTextures;
+	texturePatches;
+	texturePalScrView_i;
+	lsStatus_i;
+	texturePalView_i;
+	window_i;
+	widthField_i;
+	patchField_i;
+	searchField_i;
+	widthSearch_i;
+	lsTextField_i;
+	lsPanel_i;
+	heightSearch_i;
+	allTextures;
+    };
+    SUPERCLASS = Object;
+};
+FirstResponder = {
+    ACTIONS = {
+    };
+    SUPERCLASS = Object;
+};
+TexturePalView = {
+    SUPERCLASS = View;
+};

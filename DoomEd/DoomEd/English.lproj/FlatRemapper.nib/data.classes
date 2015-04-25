@@ -1,0 +1,24 @@
+FlatRemapper = {
+    ACTIONS = {
+	addToList:;
+	doRemapping:;
+	deleteFromList:;
+	remapGetFromSE:;
+	menuTarget:;
+    };
+    OUTLETS = {
+	browser_i;
+	originalFlat_i;
+	matrix_i;
+	status_i;
+	remapPanel_i;
+	newFlat_i;
+	storage_i;
+    };
+    SUPERCLASS = Object;
+};
+FirstResponder = {
+    ACTIONS = {
+    };
+    SUPERCLASS = Object;
+};

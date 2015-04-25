@@ -1,0 +1,80 @@
+TextureView = {
+    SUPERCLASS = View;
+};
+TexturePatchView = {
+    SUPERCLASS = View;
+};
+TextureEdit = {
+    ACTIONS = {
+	createTextureName:;
+	findPatch:;
+	locatePatchInTextures:;
+	changePatchX:;
+	togglePatchLock:;
+	sortDown:;
+	finishTexture:;
+	searchForPatch:;
+	createNewSet:;
+	sortUp:;
+	createTextureAbort:;
+	sizeChanged:;
+	deleteCurrentPatch:;
+	outlineWasSet:;
+	menuTarget:;
+	changedWidthOrHeight:;
+	makeNewTexture:;
+	createTextureDone:;
+	changePatchY:;
+	fillWithPatch:;
+    };
+    OUTLETS = {
+	patchSearchField_i;
+	centerPatch_i;
+	topView_i;
+	createDone_i;
+	texturePatchScrollView_i;
+	window_i;
+	texturePatchNameField_i;
+	textureSetField_i;
+	newSetButton_i;
+	textureNameField_i;
+	selectedTexturePatches;
+	textureWidthField_i;
+	createHeight_i;
+	textureHeightField_i;
+	texturePatchView_i;
+	lockedPatch_i;
+	patchHeightField_i;
+	texturePatchYField_i;
+	createWidth_i;
+	copyList;
+	scrollView_i;
+	patchWidthField_i;
+	splitView_i;
+	setMatrix_i;
+	textureView_i;
+	patchImages;
+	outlinePatches_i;
+	dragWarning_i;
+	texturePatchWidthField_i;
+	createName_i;
+	texturePatchXField_i;
+	texturePatchHeightField_i;
+	createTexture_i;
+	botView_i;
+	patchNameField_i;
+    };
+    SUPERCLASS = Object;
+};
+FirstResponder = {
+    ACTIONS = {
+    };
+    SUPERCLASS = Object;
+};
+FloatingPanel = {
+    ACTIONS = {
+    };
+    OUTLETS = {
+    };
+    SUPERCLASS = Panel;
+};

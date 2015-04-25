@@ -1,0 +1,60 @@
+SectorEditView = {
+    ACTIONS = {
+    };
+    OUTLETS = {
+	f_height_i;
+	c_height_i;
+    };
+    SUPERCLASS = View;
+};
+FlatsView = {
+    SUPERCLASS = View;
+};
+SectorPaletteView = {
+    SUPERCLASS = View;
+};
+FirstResponder = {
+    ACTIONS = {
+    };
+    SUPERCLASS = Object;
+};
+SectorEditor = {
+    ACTIONS = {
+	totalHeightAdjust:;
+	lightSliderChanged:;
+	searchForTaggedSector:;
+	lightChanged:;
+	searchForTaggedLine:;
+	locateFlat:;
+	lightLevelUp:;
+	activateSpecialList:;
+	ceilingAdjust:;
+	menuTarget:;
+	floorAdjust:;
+	getTagValue:;
+	lightLevelDown:;
+	CorFheightChanged:;
+    };
+    OUTLETS = {
+	lightSlider_i;
+	fheightfield_i;
+	specialPanel_i;
+	flatImages;
+	curFlat_i;
+	special_i;
+	floor_i;
+	floorAndCeiling_i;
+	flatPalView_i;
+	cheightfield_i;
+	cflatname_i;
+	window_i;
+	fflatname_i;
+	flatScrPalView_i;
+	sectorEditView_i;
+	ceiling_i;
+	tag_i;
+	lightLevel_i;
+	totalHeight_i;
+    };
+    SUPERCLASS = Object;
+};

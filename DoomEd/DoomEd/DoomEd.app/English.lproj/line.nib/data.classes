@@ -1,0 +1,60 @@
+LinePanel = {
+    ACTIONS = {
+	secretChanged:;
+	sideChanged:;
+	setTP:;
+	decFirstCol:;
+	sideRadioTarget:;
+	soundBlkChanged:;
+	twosideChanged:;
+	setFCVal:;
+	monsterblockChanged:;
+	suggestTagValue:;
+	dontDrawChanged:;
+	activateSpecialList:;
+	toppegChanged:;
+	specialChanged:;
+	getFromTP:;
+	bottompegChanged:;
+	menuTarget:;
+	tagChanged:;
+	zeroEntry:;
+	popUpCalc:;
+	incFirstCol:;
+	blockChanged:;
+    };
+    OUTLETS = {
+	p1_i;
+	monsterblock_i;
+	linelength_i;
+	sideform_i;
+	p2_i;
+	tagField_i;
+	bottompeg_i;
+	special_i;
+	dontdraw_i;
+	soundblock_i;
+	fc_currentVal_i;
+	window_i;
+	fc_incDec_i;
+	twosided_i;
+	firstColCalc_i;
+	pblock_i;
+	sideradio_i;
+	secret_i;
+	toppeg_i;
+    };
+    SUPERCLASS = Object;
+};
+FirstResponder = {
+    ACTIONS = {
+    };
+    SUPERCLASS = Object;
+};
+FloatingPanel = {
+    ACTIONS = {
+    };
+    OUTLETS = {
+    };
+    SUPERCLASS = Panel;
+};

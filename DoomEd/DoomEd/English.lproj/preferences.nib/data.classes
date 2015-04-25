@@ -1,0 +1,32 @@
+PreferencePanel = {
+    ACTIONS = {
+	menuTarget:;
+	colorChanged:;
+	launchThingTypeChanged:;
+	projectPathChanged:;
+	appWillTerminate:;
+	openupChanged:;
+    };
+    OUTLETS = {
+	launchThingType_i;
+	gridcolor_i;
+	tilecolor_i;
+	onesidedcolor_i;
+	thingcolor_i;
+	window_i;
+	backcolor_i;
+	specialcolor_i;
+	openupDefaults_i;
+	areacolor_i;
+	twosidedcolor_i;
+	selectedcolor_i;
+	pointcolor_i;
+	projectDefaultPath_i;
+    };
+    SUPERCLASS = Object;
+};
+FirstResponder = {
+    ACTIONS = {
+    };
+    SUPERCLASS = Object;
+};

@@ -1,0 +1,3643 @@
+WorldServer version 4
+
+lines:822
+(392,960) to (512,976) : 5 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(512,976) to (640,1008) : 5 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(640,1008) to (752,1072) : 5 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(128,976) to (248,960) : 5 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(0,1008) to (128,976) : 5 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(-112,1072) to (0,1008) : 5 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(-144,1200) to (-112,1072) : 5 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(-160,1328) to (-144,1200) : 5 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(-176,1440) to (-160,1328) : 5 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(784,1200) to (800,1328) : 5 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(816,1456) to (768,1536) : 4 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(768,1536) to (704,1536) : 4 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(704,1536) to (640,1472) : 4 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(640,1472) to (640,1344) : 4 : 88 : 1
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : STEP1 304 : F_SKY1 144 0 1
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(640,1344) to (512,1280) : 4 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(-128,1536) to (-176,1456) : 4 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(-64,1536) to (-128,1536) : 4 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(0,1472) to (-64,1536) : 4 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(0,1344) to (0,1472) : 4 : 88 : 2
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : STEP1 304 : F_SKY1 144 0 2
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(128,1280) to (0,1344) : 4 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(512,1280) to (128,1280) : 4 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(640,1472) to (512,1472) : 4 : 62 : 1
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : STEP1 304 : F_SKY1 144 0 1
+(512,1472) to (512,1344) : 4 : 62 : 1
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : STEP1 304 : F_SKY1 144 0 1
+(128,1344) to (128,1472) : 4 : 62 : 2
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : STEP1 304 : F_SKY1 144 0 2
+(128,1472) to (0,1472) : 4 : 62 : 2
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : STEP1 304 : F_SKY1 144 0 2
+(264,688) to (280,688) : 69 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    288 : CEIL5_2 288 : CEIL5_2 144 0 0
+(280,688) to (280,720) : 69 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : FLAT5_2 288 : CEIL5_2 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    288 : CEIL5_2 288 : CEIL5_2 144 0 0
+(280,720) to (264,720) : 69 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    288 : CEIL5_2 288 : CEIL5_2 144 0 0
+(296,712) to (296,696) : 68 : 135 : 3
+    0 (0 : DOORRED2 / DOORRED2 / - )
+    200 : FLAT5_2 288 : CEIL5_2 144 0 0
+    0 (0 : DOORRED2 / DOORRED2 / - )
+    200 : FLAT5_2 200 : CEIL5_2 144 0 3
+(296,696) to (312,696) : 68 : 135 : 3
+    0 (0 : DOORRED2 / DOORRED2 / - )
+    200 : FLAT5_2 288 : CEIL5_2 144 0 0
+    0 (0 : DOORRED2 / DOORRED2 / - )
+    200 : FLAT5_2 200 : CEIL5_2 144 0 3
+(312,696) to (312,712) : 68 : 135 : 3
+    0 (0 : DOORRED2 / DOORRED2 / - )
+    200 : FLAT5_2 288 : CEIL5_2 144 0 0
+    0 (0 : DOORRED2 / DOORRED2 / - )
+    200 : FLAT5_2 200 : CEIL5_2 144 0 3
+(312,712) to (296,712) : 68 : 135 : 3
+    0 (0 : DOORRED2 / DOORRED2 / - )
+    200 : FLAT5_2 288 : CEIL5_2 144 0 0
+    0 (0 : DOORRED2 / DOORRED2 / - )
+    200 : FLAT5_2 200 : CEIL5_2 144 0 3
+(360,720) to (360,688) : 69 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : FLAT5_2 288 : CEIL5_2 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    288 : CEIL5_2 288 : CEIL5_2 144 0 0
+(360,688) to (376,688) : 69 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    288 : CEIL5_2 288 : CEIL5_2 144 0 0
+(376,720) to (360,720) : 69 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    288 : CEIL5_2 288 : CEIL5_2 144 0 0
+(328,712) to (328,696) : 68 : 135 : 3
+    0 (0 : DOORRED2 / DOORRED2 / - )
+    200 : FLAT5_2 288 : CEIL5_2 144 0 0
+    0 (0 : DOORRED2 / DOORRED2 / - )
+    200 : FLAT5_2 200 : CEIL5_2 144 0 3
+(328,696) to (344,696) : 68 : 135 : 3
+    0 (0 : DOORRED2 / DOORRED2 / - )
+    200 : FLAT5_2 288 : CEIL5_2 144 0 0
+    0 (0 : DOORRED2 / DOORRED2 / - )
+    200 : FLAT5_2 200 : CEIL5_2 144 0 3
+(344,696) to (344,712) : 68 : 135 : 3
+    0 (0 : DOORRED2 / DOORRED2 / - )
+    200 : FLAT5_2 288 : CEIL5_2 144 0 0
+    0 (0 : DOORRED2 / DOORRED2 / - )
+    200 : FLAT5_2 200 : CEIL5_2 144 0 3
+(344,712) to (328,712) : 68 : 135 : 3
+    0 (0 : DOORRED2 / DOORRED2 / - )
+    200 : FLAT5_2 288 : CEIL5_2 144 0 0
+    0 (0 : DOORRED2 / DOORRED2 / - )
+    200 : FLAT5_2 200 : CEIL5_2 144 0 3
+(248,448) to (-64,448) : 68 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+(640,256) to (392,448) : 68 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+(704,256) to (640,256) : 68 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+(320,256) to (64,256) : 68 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(576,64) to (320,256) : 68 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(832,64) to (768,64) : 68 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(512,1344) to (512,1280) : 4 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+(640,1344) to (512,1344) : 4 : 47 : 1
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : STEP1 304 : F_SKY1 144 0 1
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+(128,1280) to (128,1344) : 4 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+(128,1344) to (0,1344) : 4 : 88 : 2
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : STEP1 304 : F_SKY1 144 0 2
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+(360,720) to (280,720) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : FLAT5_2 288 : CEIL5_2 144 0 0
+(280,688) to (360,688) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : FLAT5_2 288 : CEIL5_2 144 0 0
+(264,720) to (264,688) : 69 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    288 : CEIL5_2 288 : CEIL5_2 144 0 0
+(376,688) to (376,720) : 69 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    288 : CEIL5_2 288 : CEIL5_2 144 0 0
+(264,448) to (376,448) : 4 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+(376,960) to (264,960) : 68 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+(-96,1440) to (-112,1424) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(-112,1424) to (-112,1408) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(-112,1408) to (-96,1392) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(-96,1392) to (-80,1392) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(-80,1392) to (-64,1408) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(-64,1408) to (-64,1424) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(-80,1440) to (-96,1440) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(-64,1424) to (-80,1440) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(-8,1176) to (-24,1160) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(-24,1160) to (-24,1144) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(-24,1144) to (-8,1128) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(-8,1128) to (8,1128) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(8,1128) to (24,1144) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(24,1144) to (24,1160) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(8,1176) to (-8,1176) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(24,1160) to (8,1176) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(632,1176) to (616,1160) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(616,1160) to (616,1144) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(616,1144) to (632,1128) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(632,1128) to (648,1128) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(648,1128) to (664,1144) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(664,1144) to (664,1160) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(648,1176) to (632,1176) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(664,1160) to (648,1176) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(720,1448) to (704,1432) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(704,1432) to (704,1416) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(704,1416) to (720,1400) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(720,1400) to (736,1400) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(736,1400) to (752,1416) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(752,1416) to (752,1432) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(736,1448) to (720,1448) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(752,1432) to (736,1448) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(312,1176) to (296,1160) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(296,1160) to (296,1144) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(296,1144) to (312,1128) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(312,1128) to (328,1128) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(328,1128) to (344,1144) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(344,1144) to (344,1160) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(328,1176) to (312,1176) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(344,1160) to (328,1176) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(248,960) to (248,928) : 0 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(256,928) to (256,480) : 69 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+(392,928) to (392,960) : 0 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(384,480) to (384,928) : 69 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+(-320,928) to (-448,928) : 68 : 0 : 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    128 : FLAT5_2 304 : F_SKY1 128 0 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    144 : FLAT5_2 304 : F_SKY1 128 0 0
+(872,480) to (1000,480) : 68 : 0 : 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    128 : FLAT5_2 304 : F_SKY1 128 0 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    144 : FLAT5_2 304 : F_SKY1 128 0 0
+(-320,864) to (-320,928) : 6 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    144 : FLAT5_2 304 : F_SKY1 128 0 0
+(-448,928) to (-448,864) : 6 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    144 : FLAT5_2 304 : F_SKY1 128 0 0
+(-448,864) to (-432,800) : 6 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    160 : FLAT5_2 304 : F_SKY1 128 0 4
+(-432,800) to (-336,800) : 6 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    160 : FLAT5_2 304 : F_SKY1 128 0 4
+(-336,800) to (-320,864) : 6 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    160 : FLAT5_2 304 : F_SKY1 128 0 4
+(-320,928) to (-320,960) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    128 : FLAT5_2 304 : F_SKY1 128 0 0
+(-320,960) to (-320,992) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    112 : FLAT5_2 304 : F_SKY1 128 0 0
+(-320,992) to (-320,1024) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    96 : FLAT5_2 304 : F_SKY1 128 0 0
+(-320,1024) to (-320,1056) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    80 : FLAT5_2 304 : F_SKY1 128 0 0
+(-448,1056) to (-448,1024) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    80 : FLAT5_2 304 : F_SKY1 128 0 0
+(-448,1024) to (-448,992) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    96 : FLAT5_2 304 : F_SKY1 128 0 0
+(-448,992) to (-448,960) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    112 : FLAT5_2 304 : F_SKY1 128 0 0
+(-448,960) to (-448,928) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    128 : FLAT5_2 304 : F_SKY1 128 0 0
+(-320,1056) to (-448,1056) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    80 : FLAT5_2 304 : F_SKY1 128 0 0
+(-320,1024) to (-448,1024) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    80 : FLAT5_2 304 : F_SKY1 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    96 : FLAT5_2 304 : F_SKY1 128 0 0
+(-320,960) to (-448,960) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    112 : FLAT5_2 304 : F_SKY1 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    128 : FLAT5_2 304 : F_SKY1 128 0 0
+(-320,992) to (-448,992) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    96 : FLAT5_2 304 : F_SKY1 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    112 : FLAT5_2 304 : F_SKY1 128 0 0
+(-448,864) to (-320,864) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    160 : FLAT5_2 304 : F_SKY1 128 0 4
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    144 : FLAT5_2 304 : F_SKY1 128 0 0
+(-320,928) to (248,928) : 70 : 0 : 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(248,480) to (-1216,480) : 70 : 0 : 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(1000,352) to (1000,384) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    80 : FLAT5_2 304 : F_SKY1 128 0 0
+(1000,384) to (1000,416) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    96 : FLAT5_2 304 : F_SKY1 128 0 0
+(1000,416) to (1000,448) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    112 : FLAT5_2 304 : F_SKY1 128 0 0
+(872,448) to (872,416) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    112 : FLAT5_2 304 : F_SKY1 128 0 0
+(872,416) to (872,384) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    96 : FLAT5_2 304 : F_SKY1 128 0 0
+(872,384) to (872,352) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    80 : FLAT5_2 304 : F_SKY1 128 0 0
+(872,448) to (1000,448) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    112 : FLAT5_2 304 : F_SKY1 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    128 : FLAT5_2 304 : F_SKY1 128 0 0
+(872,416) to (1000,416) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    96 : FLAT5_2 304 : F_SKY1 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    112 : FLAT5_2 304 : F_SKY1 128 0 0
+(872,352) to (1000,352) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    80 : FLAT5_2 304 : F_SKY1 128 0 0
+(872,384) to (1000,384) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    80 : FLAT5_2 304 : F_SKY1 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    96 : FLAT5_2 304 : F_SKY1 128 0 0
+(872,480) to (872,448) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    128 : FLAT5_2 304 : F_SKY1 128 0 0
+(1000,448) to (1000,480) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    128 : FLAT5_2 304 : F_SKY1 128 0 0
+(872,544) to (872,480) : 70 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    144 : FLAT5_2 304 : F_SKY1 128 0 0
+(1000,480) to (1000,544) : 70 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    144 : FLAT5_2 304 : F_SKY1 128 0 0
+(1000,544) to (872,544) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    160 : FLAT5_2 304 : F_SKY1 128 0 5
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    144 : FLAT5_2 304 : F_SKY1 128 0 0
+(1000,544) to (984,608) : 70 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    160 : FLAT5_2 304 : F_SKY1 128 0 5
+(984,608) to (888,608) : 70 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    160 : FLAT5_2 304 : F_SKY1 128 0 5
+(888,608) to (872,544) : 70 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    160 : FLAT5_2 304 : F_SKY1 128 0 5
+(-576,256) to (-576,64) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    56 : FLAT5_2 304 : F_SKY1 160 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(1152,256) to (1152,64) : 68 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 8
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+(1536,256) to (1152,256) : 68 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+(1152,64) to (1408,64) : 68 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+(1408,64) to (1408,-192) : 68 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    176 : FLAT5_2 304 : F_SKY1 144 0 0
+(1408,-192) to (1600,-192) : 68 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    176 : FLAT5_2 304 : F_SKY1 144 0 0
+(1600,-192) to (1600,64) : 68 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    176 : FLAT5_2 304 : F_SKY1 144 0 0
+(1600,64) to (1600,192) : 4 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+(1408,64) to (1600,64) : 68 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    176 : FLAT5_2 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+(1536,256) to (1536,192) : 4 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    192 : FLAT5_2 304 : F_SKY1 144 0 0
+(1536,192) to (1600,192) : 4 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    192 : FLAT5_2 304 : F_SKY1 144 0 0
+(1600,192) to (1600,256) : 68 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    192 : FLAT5_2 304 : F_SKY1 144 0 0
+(1600,256) to (1536,256) : 68 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    192 : FLAT5_2 304 : F_SKY1 144 0 0
+(392,448) to (392,480) : 65 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(392,480) to (384,480) : 65 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+(376,480) to (376,448) : 65 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+(376,448) to (392,448) : 65 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+(248,448) to (264,448) : 65 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+(264,448) to (264,480) : 65 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+(256,480) to (248,480) : 65 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+(248,480) to (248,448) : 65 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(384,480) to (376,480) : 65 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+(264,480) to (256,480) : 65 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+(264,960) to (248,960) : 0 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(392,960) to (376,960) : 0 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(376,928) to (384,928) : 0 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+(384,928) to (392,928) : 0 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+(248,928) to (256,928) : 0 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+(256,928) to (264,928) : 0 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+(264,928) to (264,960) : 0 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+(376,960) to (376,928) : 0 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 304 : F_SKY1 144 0 0
+(-1408,480) to (-1280,480) : 70 : 0 : 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+(-832,320) to (-1024,464) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -72 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1024,-320) to (-1024,-128) : 13 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -72 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-576,256) to (-608,256) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    56 : FLAT5_2 304 : F_SKY1 160 0 0
+(-608,256) to (-608,64) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    40 : FLAT5_2 304 : F_SKY1 160 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    56 : FLAT5_2 304 : F_SKY1 160 0 0
+(-608,64) to (-576,64) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    56 : FLAT5_2 304 : F_SKY1 160 0 0
+(-608,256) to (-640,256) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    40 : FLAT5_2 304 : F_SKY1 160 0 0
+(-640,256) to (-640,64) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    24 : FLAT5_2 304 : F_SKY1 160 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    40 : FLAT5_2 304 : F_SKY1 160 0 0
+(-640,64) to (-608,64) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    40 : FLAT5_2 304 : F_SKY1 160 0 0
+(-640,256) to (-672,256) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    24 : FLAT5_2 304 : F_SKY1 160 0 0
+(-672,256) to (-672,64) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    8 : FLAT5_2 304 : F_SKY1 160 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    24 : FLAT5_2 304 : F_SKY1 160 0 0
+(-672,64) to (-640,64) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    24 : FLAT5_2 304 : F_SKY1 160 0 0
+(-672,256) to (-704,256) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    8 : FLAT5_2 304 : F_SKY1 160 0 0
+(-704,256) to (-704,64) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -8 : FLAT5_2 304 : F_SKY1 160 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    8 : FLAT5_2 304 : F_SKY1 160 0 0
+(-704,64) to (-672,64) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    8 : FLAT5_2 304 : F_SKY1 160 0 0
+(-832,0) to (-832,64) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -72 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-832,256) to (-832,320) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -72 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-704,256) to (-736,256) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -8 : FLAT5_2 304 : F_SKY1 160 0 0
+(-736,256) to (-736,64) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -24 : FLAT5_2 304 : F_SKY1 160 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -8 : FLAT5_2 304 : F_SKY1 160 0 0
+(-736,64) to (-704,64) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -8 : FLAT5_2 304 : F_SKY1 160 0 0
+(-736,256) to (-768,256) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -24 : FLAT5_2 304 : F_SKY1 160 0 0
+(-768,256) to (-768,64) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -40 : FLAT5_2 304 : F_SKY1 160 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -24 : FLAT5_2 304 : F_SKY1 160 0 0
+(-768,64) to (-736,64) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -24 : FLAT5_2 304 : F_SKY1 160 0 0
+(-768,256) to (-800,256) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -40 : FLAT5_2 304 : F_SKY1 160 0 0
+(-800,256) to (-800,64) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -56 : FLAT5_2 304 : F_SKY1 160 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -40 : FLAT5_2 304 : F_SKY1 160 0 0
+(-800,64) to (-768,64) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -40 : FLAT5_2 304 : F_SKY1 160 0 0
+(-800,256) to (-832,256) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -56 : FLAT5_2 304 : F_SKY1 160 0 0
+(-832,64) to (-800,64) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -56 : FLAT5_2 304 : F_SKY1 160 0 0
+(-1024,464) to (-1408,464) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -72 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1216,480) to (-1216,512) : 70 : 0 : 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(-1280,480) to (-1280,512) : 70 : 0 : 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+(824,1440) to (824,1456) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(816,1440) to (824,1440) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(816,1456) to (816,1440) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(824,1456) to (816,1456) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(800,1328) to (816,1440) : 5 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(-176,1440) to (-176,1456) : 0 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(-184,1440) to (-176,1440) : 0 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(-184,1456) to (-184,1440) : 0 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(-176,1456) to (-184,1456) : 0 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(-32,256) to (-32,232) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+(-32,232) to (32,232) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+(32,232) to (32,256) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+(32,256) to (-32,256) : 1 : 20 : 8
+    16 (0 : - / - / SW1WOOD )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+(64,192) to (64,256) : 68 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+(-64,448) to (-64,192) : 68 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+(-64,192) to (64,192) : 68 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+(-1024,-128) to (-832,0) : 12 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -72 : FLAT5_1 64 : FLAT5_2 128 0 0
+(1776,-320) to (1232,-320) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    192 : FLAT5_2 256 : FLAT5_2 144 0 0
+(1232,-336) to (1792,-336) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    192 : FLAT5_2 256 : FLAT5_2 144 0 0
+(1808,-320) to (1808,320) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    192 : FLAT5_2 256 : FLAT5_2 144 0 0
+(1792,320) to (1808,320) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    192 : FLAT5_2 256 : FLAT5_2 144 0 0
+(1808,320) to (1984,320) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+(1984,64) to (1984,-768) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+(1792,320) to (1792,-304) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    192 : FLAT5_2 256 : FLAT5_2 144 0 0
+(1984,-784) to (1984,-1024) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(1984,-1024) to (896,-1024) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(896,-1024) to (896,-128) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(-384,-128) to (-384,-320) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(-384,-320) to (-1024,-320) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(1216,-336) to (1216,-768) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    192 : FLAT5_2 256 : FLAT5_2 144 0 0
+(1792,-304) to (1776,-320) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(1776,-320) to (1792,-336) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    192 : FLAT5_2 256 : FLAT5_2 144 0 0
+(1792,-336) to (1808,-320) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+(1808,-320) to (1792,-304) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    192 : FLAT5_2 256 : FLAT5_2 144 0 0
+(1232,-320) to (1216,-320) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(1216,-320) to (1216,-336) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(1216,-336) to (1232,-336) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    192 : FLAT5_2 256 : FLAT5_2 144 0 0
+(1232,-336) to (1232,-320) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    192 : FLAT5_2 256 : FLAT5_2 144 0 0
+(1968,-768) to (1232,-768) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    192 : FLAT5_2 256 : FLAT5_2 144 0 0
+(1232,-784) to (1968,-784) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    192 : FLAT5_2 256 : FLAT5_2 144 0 0
+(1232,-768) to (1216,-768) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    192 : FLAT5_2 256 : FLAT5_2 144 0 0
+(1216,-768) to (1216,-784) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(1216,-784) to (1232,-784) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(1232,-784) to (1232,-768) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    192 : FLAT5_2 256 : FLAT5_2 144 0 0
+(1232,-768) to (1232,-336) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    192 : FLAT5_2 256 : FLAT5_2 144 0 0
+(1968,-768) to (1968,-784) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    192 : FLAT5_2 256 : FLAT5_2 144 0 0
+(1968,-784) to (1984,-784) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(1984,-768) to (1968,-768) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+(1232,488) to (1000,480) : 70 : 0 : 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(1600,576) to (1600,376) : 1 : 0 : 0
+    16 (0 : - / - / WOOD1 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(1464,520) to (1232,488) : 70 : 0 : 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(1600,576) to (1464,520) : 70 : 0 : 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(1608,552) to (1808,552) : 4 : 28 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 32 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 -96 : FLAT5_1 128 0 0
+(1600,376) to (1792,320) : 1 : 0 : 0
+    16 (0 : - / - / WOOD1 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(1792,328) to (1608,384) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2152,496) to (2160,472) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -80 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2160,472) to (2160,448) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -80 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2160,448) to (2160,416) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -64 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2160,416) to (2160,400) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -48 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2160,400) to (2168,392) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -112 : LAVA1 304 : F_SKY1 160 5 0
+(2168,392) to (2176,384) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -112 : LAVA1 304 : F_SKY1 160 5 0
+(2176,384) to (2184,384) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    0 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2112,336) to (2144,320) : 20 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -16 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2144,320) to (2184,312) : 20 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    0 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2080,472) to (2080,448) : 20 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -80 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2080,448) to (2080,432) : 20 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -64 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2080,432) to (2080,416) : 20 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -64 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2080,416) to (2080,392) : 20 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -48 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2080,392) to (2088,360) : 20 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -48 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2088,360) to (2112,336) : 20 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -32 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2184,384) to (2192,384) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    16 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2192,384) to (2200,392) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -112 : LAVA1 304 : F_SKY1 160 5 0
+(2200,392) to (2208,400) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -112 : LAVA1 304 : F_SKY1 160 5 0
+(2208,416) to (2288,416) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    80 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2208,448) to (2288,448) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    80 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    96 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2216,496) to (2304,480) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    112 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2208,400) to (2208,416) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    64 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2208,416) to (2208,448) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    80 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2208,448) to (2208,472) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    96 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2208,472) to (2216,496) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    96 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2216,496) to (2232,520) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    112 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2184,312) to (2224,320) : 20 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    16 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2224,320) to (2256,336) : 20 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    32 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2256,336) to (2280,360) : 20 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    48 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2280,360) to (2288,392) : 20 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    64 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2288,392) to (2288,416) : 20 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    64 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2288,416) to (2288,432) : 20 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    80 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2288,432) to (2288,448) : 20 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    80 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2288,448) to (2304,480) : 20 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    96 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2304,480) to (2376,480) : 20 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    112 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2232,520) to (2232,640) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    112 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2232,640) to (2496,640) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    112 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2152,496) to (2080,472) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -80 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2160,448) to (2080,448) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -80 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -64 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2160,416) to (2080,416) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -64 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -48 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2160,400) to (2088,360) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -48 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -32 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2168,392) to (2112,336) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -32 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -16 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2176,384) to (2144,320) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -16 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    0 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2184,384) to (2184,312) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    0 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    16 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2192,384) to (2224,320) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    16 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    32 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2200,392) to (2256,336) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    32 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    48 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2208,400) to (2280,360) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    48 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT1_2 304 : FLAT1_2 128 0 0
+(1792,648) to (1808,576) : 1 : 0 : 0
+    0 (0 : - / - / BROWNHUG )
+    -96 : FLAT1_2 32 : FLAT1_2 128 0 0
+(1808,560) to (1808,552) : 17 : 0 : 0
+    0 (0 : - / - / DOORTRAK )
+    -96 : FLAT1_2 -96 : FLAT5_1 128 0 0
+(1608,552) to (1608,560) : 17 : 0 : 0
+    0 (0 : - / - / DOORTRAK )
+    -96 : FLAT1_2 -96 : FLAT5_1 128 0 0
+(1808,560) to (1608,560) : 4 : 28 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 32 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 -96 : FLAT5_1 128 0 0
+(2152,544) to (2152,496) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2000,256) to (2000,328) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2000,328) to (1792,328) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+(1608,560) to (1608,576) : 1 : 0 : 0
+    0 (0 : - / - / DOORRED2 )
+    -96 : FLAT1_2 32 : FLAT1_2 128 0 0
+(1608,576) to (1600,576) : 1 : 0 : 0
+    0 (0 : - / - / BROWNHUG )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+(1792,648) to (1608,576) : 6 : 0 : 0
+    0 (0 : WOOD1 / SUPPORT3 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : WOOD1 / SUPPORT3 / - )
+    -96 : FLAT1_2 32 : FLAT1_2 128 0 0
+(1808,552) to (1808,544) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -96 : FLAT1_2 32 : FLAT1_2 128 0 0
+(1608,544) to (1608,552) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -96 : FLAT1_2 32 : FLAT1_2 128 0 0
+(1608,384) to (1608,544) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+(1608,544) to (1808,544) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 32 : FLAT1_2 128 0 0
+(2496,640) to (2560,576) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    112 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2560,576) to (2560,128) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    112 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2560,128) to (2496,64) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    112 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2376,480) to (2376,256) : 20 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    112 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2376,256) to (2312,256) : 20 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    128 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2376,64) to (2376,256) : 20 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    112 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    128 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2312,64) to (2312,256) : 20 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    128 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    144 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2248,64) to (2248,256) : 20 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    144 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    160 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2184,64) to (2184,256) : 20 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    160 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+(2312,256) to (2248,256) : 20 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    144 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2248,256) to (2184,256) : 20 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    160 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2184,256) to (2000,256) : 20 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+(2376,64) to (2312,64) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    128 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2312,64) to (2248,64) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    144 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2248,64) to (2184,64) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    160 : FLAT1_2 304 : FLAT1_2 128 0 0
+(2184,64) to (2000,64) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+(2496,64) to (2376,64) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    112 : FLAT1_2 304 : FLAT1_2 128 0 0
+(1984,320) to (1984,256) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+(2304,448) to (2304,384) : 4 : 97 : 6
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -88 : GATE3 304 : FLAT1_2 144 8 0
+(2304,384) to (2368,384) : 4 : 97 : 6
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -88 : GATE3 304 : FLAT1_2 144 8 0
+(2368,384) to (2368,448) : 4 : 97 : 6
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -88 : GATE3 304 : FLAT1_2 144 8 0
+(2368,448) to (2304,448) : 4 : 97 : 6
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -88 : GATE3 304 : FLAT1_2 144 8 0
+(704,480) to (392,480) : 70 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(800,496) to (800,488) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -32 : CEIL5_1 304 : F_SKY1 144 0 0
+(800,488) to (864,488) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -32 : CEIL5_1 304 : F_SKY1 144 0 0
+(864,488) to (864,496) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -32 : CEIL5_1 304 : F_SKY1 144 0 0
+(864,496) to (800,496) : 68 : 123 : 5
+    64 (0 : SW1LION / SW1LION / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SW1LION / SW1LION / - )
+    -32 : CEIL5_1 304 : F_SKY1 144 0 0
+(1008,496) to (1008,488) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -32 : CEIL5_1 304 : F_SKY1 144 0 0
+(1008,488) to (1072,488) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -32 : CEIL5_1 304 : F_SKY1 144 0 0
+(1072,488) to (1072,496) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -32 : CEIL5_1 304 : F_SKY1 144 0 0
+(1072,496) to (1008,496) : 68 : 123 : 5
+    64 (0 : SW1LION / SW1LION / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SW1LION / SW1LION / - )
+    -32 : CEIL5_1 304 : F_SKY1 144 0 0
+(832,64) to (832,256) : 68 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 8
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+(-456,912) to (-456,920) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -32 : CEIL5_1 304 : F_SKY1 144 0 0
+(-456,920) to (-520,920) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -32 : CEIL5_1 304 : F_SKY1 144 0 0
+(-520,920) to (-520,912) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -32 : CEIL5_1 304 : F_SKY1 144 0 0
+(-520,912) to (-456,912) : 4 : 123 : 4
+    64 (0 : SW1LION / SW1LION / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SW1LION / SW1LION / - )
+    -32 : CEIL5_1 304 : F_SKY1 144 0 0
+(-248,912) to (-248,920) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -32 : CEIL5_1 304 : F_SKY1 144 0 0
+(-248,920) to (-312,920) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -32 : CEIL5_1 304 : F_SKY1 144 0 0
+(-312,920) to (-312,912) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -32 : CEIL5_1 304 : F_SKY1 144 0 0
+(-312,912) to (-248,912) : 68 : 123 : 4
+    64 (0 : SW1LION / SW1LION / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : SW1LION / SW1LION / - )
+    -32 : CEIL5_1 304 : F_SKY1 144 0 0
+(832,256) to (720,256) : 68 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+(704,480) to (704,256) : 65 : 0 : 0
+    16 (0 : - / - / WOOD1 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(720,256) to (720,480) : 65 : 0 : 0
+    16 (0 : - / - / WOOD1 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(720,480) to (704,480) : 1 : 0 : 0
+    16 (0 : - / - / WOOD5 )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+(704,256) to (720,256) : 1 : 0 : 0
+    16 (0 : - / - / WOOD1 )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+(872,480) to (720,480) : 70 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(1808,544) to (2152,544) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -96 : FLAT1_2 304 : FLAT1_2 128 0 0
+(832,64) to (1152,64) : 68 : 0 : 8
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 8
+(1152,256) to (832,256) : 68 : 0 : 8
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 8
+(-1408,-320) to (-1216,-320) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -88 : FLAT5_1 64 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -72 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1408,-352) to (-1216,-352) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -104 : FLAT5_1 64 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -88 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1408,-384) to (-1216,-384) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -120 : FLAT5_1 64 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -104 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1408,-416) to (-1216,-416) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -136 : FLAT5_1 64 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -120 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1408,-448) to (-1216,-448) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -152 : FLAT5_1 64 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -136 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1408,-480) to (-1216,-480) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -168 : FLAT5_1 64 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -152 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1408,-512) to (-1216,-512) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -184 : FLAT5_1 64 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -168 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1408,-544) to (-1216,-544) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -200 : FLAT5_1 64 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -184 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1216,-320) to (-1216,-352) : 12 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -88 : FLAT5_1 64 : FLAT5_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -56 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1216,-352) to (-1216,-384) : 12 : 0 : 0
+    112 (0 : WOOD1 / WOOD1 / - )
+    -104 : FLAT5_1 64 : FLAT5_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -40 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1216,-384) to (-1216,-416) : 12 : 0 : 0
+    96 (0 : WOOD1 / WOOD1 / - )
+    -120 : FLAT5_1 64 : FLAT5_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -24 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1216,-416) to (-1216,-448) : 12 : 0 : 0
+    80 (0 : WOOD1 / WOOD1 / - )
+    -136 : FLAT5_1 64 : FLAT5_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -8 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1216,-448) to (-1216,-480) : 12 : 0 : 0
+    64 (0 : WOOD1 / WOOD1 / - )
+    -152 : FLAT5_1 64 : FLAT5_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    8 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1216,-480) to (-1216,-512) : 12 : 0 : 0
+    48 (0 : WOOD1 / WOOD1 / - )
+    -168 : FLAT5_1 64 : FLAT5_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    24 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1216,-512) to (-1216,-544) : 12 : 0 : 0
+    32 (0 : WOOD1 / WOOD1 / - )
+    -184 : FLAT5_1 64 : FLAT5_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    40 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1216,-544) to (-1216,-576) : 12 : 0 : 0
+    16 (0 : WOOD1 / WOOD1 / - )
+    -200 : FLAT5_1 64 : FLAT5_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    56 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1408,-352) to (-1408,-320) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -88 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1408,-384) to (-1408,-352) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -104 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1408,-416) to (-1408,-384) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -120 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1408,-448) to (-1408,-416) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -136 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1408,-480) to (-1408,-448) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -152 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1408,-512) to (-1408,-480) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -168 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1408,-544) to (-1408,-512) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -184 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1408,-576) to (-1408,-544) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -200 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1216,-352) to (-1024,-352) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -40 : FLAT5_1 184 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -56 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1216,-384) to (-1024,-384) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -24 : FLAT5_1 184 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -40 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1216,-416) to (-1024,-416) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -8 : FLAT5_1 184 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -24 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1216,-448) to (-1024,-448) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    8 : FLAT5_1 184 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -8 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1216,-480) to (-1024,-480) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    24 : FLAT5_1 184 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    8 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1216,-512) to (-1024,-512) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    40 : FLAT5_1 184 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    24 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1216,-544) to (-1024,-544) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    56 : FLAT5_1 184 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    40 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1024,-320) to (-1024,-352) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -56 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1024,-352) to (-1024,-384) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -40 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1024,-384) to (-1024,-416) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -24 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1024,-416) to (-1024,-448) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -8 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1024,-448) to (-1024,-480) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    8 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1024,-480) to (-1024,-512) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    24 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1024,-512) to (-1024,-544) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    40 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1024,-544) to (-1024,-576) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    56 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1216,-320) to (-1024,-320) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -56 : FLAT5_1 184 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -72 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1392,-576) to (-1240,-576) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -200 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1192,-576) to (-1024,-576) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    72 : FLAT5_1 184 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    56 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1240,-576) to (-1240,-592) : 9 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-1408,-592) to (-1392,-592) : 9 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-832,-768) to (-1200,-768) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1200,-768) to (-1208,-592) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 184 : FLAT5_2 128 0 0
+(352,384) to (288,384) : 4 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 6
+(352,320) to (352,384) : 4 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 6
+(288,320) to (352,320) : 4 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 6
+(288,384) to (288,320) : 4 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 6
+(-1024,-576) to (-768,-576) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-768,-576) to (-640,-576) : 4 : 31 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    72 : FLAT5_1 184 : FLAT5_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    72 : FLAT5_1 72 : CEIL5_2 128 0 7
+(-640,-560) to (-640,-576) : 17 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 72 : CEIL5_2 128 0 7
+(-640,-560) to (-768,-560) : 4 : 31 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    72 : FLAT5_1 152 : FLAT5_2 128 9 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    72 : FLAT5_1 72 : CEIL5_2 128 0 7
+(-768,-560) to (-768,-384) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 152 : FLAT5_2 128 9 0
+(-768,-384) to (-448,-384) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 152 : FLAT5_2 128 9 0
+(-448,-384) to (-448,-704) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 152 : FLAT5_2 128 9 0
+(-448,-704) to (-624,-704) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 152 : FLAT5_2 128 9 0
+(-832,-1072) to (-832,-1048) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-640,-704) to (-640,-1048) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-640,-1088) to (-336,-1088) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+(-1152,-1088) to (-832,-1088) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+(-1232,-768) to (-1232,-960) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-1280,-1664) to (-1280,-1216) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+(-320,-1104) to (-320,-1264) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    88 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-288,-1088) to (-288,-1280) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    88 : FLAT5_1 288 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    104 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-256,-1088) to (-256,-1280) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    104 : FLAT5_1 288 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    120 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-224,-1088) to (-224,-1280) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    120 : FLAT5_1 288 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    136 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-192,-1088) to (-192,-1280) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    136 : FLAT5_1 288 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    152 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-320,-1088) to (-288,-1088) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    88 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-288,-1088) to (-256,-1088) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    104 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-256,-1088) to (-224,-1088) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    120 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-224,-1088) to (-192,-1088) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    136 : FLAT5_1 288 : FLAT5_2 128 0 0
+(128,-1024) to (128,-1280) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    216 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-64,-1088) to (-64,-896) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    216 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-64,-896) to (72,-704) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    216 : FLAT5_1 288 : FLAT5_2 128 0 0
+(224,-896) to (128,-1024) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    216 : FLAT5_1 288 : FLAT5_2 128 0 0
+(768,-896) to (224,-896) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    216 : FLAT5_1 288 : FLAT5_2 128 0 0
+(72,-704) to (576,-704) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    216 : FLAT5_1 288 : FLAT5_2 128 0 0
+(576,-704) to (576,-128) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    216 : FLAT5_1 288 : FLAT5_2 128 0 0
+(768,-128) to (768,-896) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    216 : FLAT5_1 288 : FLAT5_2 128 0 0
+(768,-128) to (576,-128) : 70 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / WOOD1 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    216 : FLAT5_1 288 : FLAT5_2 128 0 0
+(896,-128) to (768,-128) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(576,-128) to (-384,-128) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(-160,-1088) to (-160,-1280) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    152 : FLAT5_1 288 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    168 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-128,-1088) to (-128,-1280) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    168 : FLAT5_1 288 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    184 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-96,-1088) to (-96,-1280) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    184 : FLAT5_1 288 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-64,-1088) to (-64,-1280) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : FLAT5_1 288 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    216 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-192,-1088) to (-160,-1088) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    152 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-160,-1088) to (-128,-1088) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    168 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-128,-1088) to (-96,-1088) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    184 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-96,-1088) to (-64,-1088) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    200 : FLAT5_1 288 : FLAT5_2 128 0 0
+(128,-1280) to (-64,-1280) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    216 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-1232,-960) to (-1536,-960) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-1728,-768) to (-1408,-768) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-512,-1280) to (-1088,-1280) : 6 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    88 : CEIL5_2 200 : FLAT5_2 128 0 0
+(-640,-1048) to (-640,-1072) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-672,-1072) to (-672,-1088) : 17 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 72 : FLAT5_2 128 0 0
+(-800,-1088) to (-800,-1072) : 17 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 72 : FLAT5_2 128 0 0
+(-800,-1088) to (-672,-1088) : 68 : 31 : 0
+    0 (0 : BIGDOOR6 / BIGDOOR6 / - )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+    0 (0 : BIGDOOR6 / BIGDOOR6 / - )
+    72 : FLAT5_1 72 : FLAT5_2 128 0 0
+(-672,-1072) to (-800,-1072) : 68 : 31 : 0
+    0 (0 : BIGDOOR6 / BIGDOOR6 / - )
+    72 : FLAT5_1 184 : FLAT5_2 128 0 0
+    0 (0 : BIGDOOR6 / BIGDOOR6 / - )
+    72 : FLAT5_1 72 : FLAT5_2 128 0 0
+(-1088,-1280) to (-1016,-1792) : 6 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    88 : CEIL5_2 200 : FLAT5_2 128 0 0
+(-584,-1792) to (-512,-1280) : 6 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    88 : CEIL5_2 200 : FLAT5_2 128 0 0
+(-544,-1312) to (-616,-1792) : 6 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -216 : LAVA1 200 : FLAT5_2 128 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    88 : CEIL5_2 200 : FLAT5_2 128 0 0
+(-1056,-1312) to (-544,-1312) : 6 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -216 : LAVA1 200 : FLAT5_2 128 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    88 : CEIL5_2 200 : FLAT5_2 128 0 0
+(-984,-1792) to (-1056,-1312) : 6 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -216 : LAVA1 200 : FLAT5_2 128 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    88 : CEIL5_2 200 : FLAT5_2 128 0 0
+(-128,-1472) to (-256,-1536) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+(-256,-1536) to (-320,-1664) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+(-64,-1280) to (-128,-1472) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+(-1016,-1792) to (-1152,-1792) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+(-448,-1792) to (-584,-1792) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+(-640,-1792) to (-960,-1792) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -216 : LAVA1 200 : FLAT5_2 128 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-1152,-1808) to (-960,-1808) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-640,-1792) to (-640,-1808) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-960,-1808) to (-640,-1808) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-640,-1048) to (-832,-1048) : 4 : 2 : 7
+    0 (0 : - / - / - )
+    72 : FLAT5_1 184 : FLAT5_2 128 0 0
+    0 (0 : - / - / - )
+    72 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-320,-1280) to (-288,-1280) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    88 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-288,-1280) to (-256,-1280) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    104 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-256,-1280) to (-224,-1280) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    120 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-224,-1280) to (-192,-1280) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    136 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-192,-1280) to (-160,-1280) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    152 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-160,-1280) to (-128,-1280) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    168 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-128,-1280) to (-96,-1280) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    184 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-96,-1280) to (-64,-1280) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    200 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-704,-1440) to (-896,-1440) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -216 : LAVA1 200 : FLAT5_2 128 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    112 : CEIL5_2 200 : FLAT5_2 192 8 9
+(-896,-1440) to (-896,-1632) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -216 : LAVA1 200 : FLAT5_2 128 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    112 : CEIL5_2 200 : FLAT5_2 192 8 9
+(-896,-1632) to (-704,-1632) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -216 : LAVA1 200 : FLAT5_2 128 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    112 : CEIL5_2 200 : FLAT5_2 192 8 9
+(-704,-1632) to (-704,-1440) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -216 : LAVA1 200 : FLAT5_2 128 5 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    112 : CEIL5_2 200 : FLAT5_2 192 8 9
+(-1224,-592) to (-1232,-768) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-1408,-768) to (-1408,-592) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-336,-1088) to (-336,-1104) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+(-336,-1104) to (-320,-1104) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+(-320,-1104) to (-320,-1088) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    88 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-1392,-592) to (-1392,-576) : 9 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-1392,-576) to (-1408,-576) : 9 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    -200 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1240,-592) to (-1224,-592) : 9 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-768,-1832) to (-768,-1824) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -144 : CEIL5_1 -112 : FLAT5_2 128 0 9
+(-768,-1824) to (-832,-1824) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -144 : CEIL5_1 -112 : FLAT5_2 128 0 9
+(-832,-1824) to (-832,-1832) : 4 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -144 : CEIL5_1 -112 : FLAT5_2 128 0 9
+(-832,-1832) to (-768,-1832) : 4 : 71 : 9
+    64 (0 : SW1LION / SW1LION / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+    0 (0 : SW1LION / SW1LION / - )
+    -144 : CEIL5_1 -112 : FLAT5_2 128 0 9
+(-1216,-576) to (-1240,-576) : 9 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    -200 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1192,-576) to (-1216,-576) : 9 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    56 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1192,-592) to (-1192,-576) : 9 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    72 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-1208,-592) to (-1192,-592) : 9 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    72 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-320,-1280) to (-320,-1264) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    88 : FLAT5_1 288 : FLAT5_2 128 0 0
+(-320,-1264) to (-336,-1264) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+(-336,-1264) to (-336,-1280) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+(-336,-1280) to (-320,-1280) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+(1368,-560) to (1376,-560) : 4 : 0 : 0
+    0 (32 : EXITSIGN / EXITSIGN / - )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+    0 (0 : EXITSIGN / EXITSIGN / - )
+    168 : FLAT1_2 280 : CEIL5_1 144 0 0
+(1376,-560) to (1376,-528) : 4 : 0 : 0
+    0 (0 : EXITSIGN / EXITSIGN / - )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+    0 (0 : EXITSIGN / EXITSIGN / - )
+    168 : FLAT1_2 280 : CEIL5_1 144 0 0
+(1376,-528) to (1368,-528) : 4 : 0 : 0
+    0 (32 : EXITSIGN / EXITSIGN / - )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+    0 (0 : EXITSIGN / EXITSIGN / - )
+    168 : FLAT1_2 280 : CEIL5_1 144 0 0
+(1368,-528) to (1368,-560) : 4 : 0 : 0
+    0 (32 : EXITSIGN / EXITSIGN / - )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+    0 (0 : EXITSIGN / EXITSIGN / - )
+    168 : FLAT1_2 280 : CEIL5_1 144 0 0
+(1280,-512) to (1280,-576) : 4 : 52 : 6
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    176 : GATE4 296 : FLAT1_2 255 8 0
+(1280,-576) to (1344,-576) : 4 : 52 : 6
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    176 : GATE4 296 : FLAT1_2 255 8 0
+(1344,-576) to (1344,-512) : 4 : 52 : 6
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    176 : GATE4 296 : FLAT1_2 255 8 0
+(1344,-512) to (1280,-512) : 4 : 52 : 6
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    176 : GATE4 296 : FLAT1_2 255 8 0
+(1328,-488) to (1328,-480) : 4 : 0 : 0
+    0 (32 : EXITSIGN / EXITSIGN / - )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+    0 (0 : EXITSIGN / EXITSIGN / - )
+    168 : FLAT1_2 280 : CEIL5_1 144 0 0
+(1328,-480) to (1296,-480) : 4 : 0 : 0
+    0 (0 : EXITSIGN / EXITSIGN / - )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+    0 (0 : EXITSIGN / EXITSIGN / - )
+    168 : FLAT1_2 280 : CEIL5_1 144 0 0
+(1296,-480) to (1296,-488) : 4 : 0 : 0
+    0 (32 : EXITSIGN / EXITSIGN / - )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+    0 (0 : EXITSIGN / EXITSIGN / - )
+    168 : FLAT1_2 280 : CEIL5_1 144 0 0
+(1296,-488) to (1328,-488) : 4 : 0 : 0
+    0 (32 : EXITSIGN / EXITSIGN / - )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+    0 (0 : EXITSIGN / EXITSIGN / - )
+    168 : FLAT1_2 280 : CEIL5_1 144 0 0
+(1296,-600) to (1296,-608) : 4 : 0 : 0
+    0 (32 : EXITSIGN / EXITSIGN / - )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+    0 (0 : EXITSIGN / EXITSIGN / - )
+    168 : FLAT1_2 280 : CEIL5_1 144 0 0
+(1296,-608) to (1328,-608) : 4 : 0 : 0
+    0 (0 : EXITSIGN / EXITSIGN / - )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+    0 (0 : EXITSIGN / EXITSIGN / - )
+    168 : FLAT1_2 280 : CEIL5_1 144 0 0
+(1328,-608) to (1328,-600) : 4 : 0 : 0
+    0 (32 : EXITSIGN / EXITSIGN / - )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+    0 (0 : EXITSIGN / EXITSIGN / - )
+    168 : FLAT1_2 280 : CEIL5_1 144 0 0
+(1328,-600) to (1296,-600) : 4 : 0 : 0
+    0 (32 : EXITSIGN / EXITSIGN / - )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+    0 (0 : EXITSIGN / EXITSIGN / - )
+    168 : FLAT1_2 280 : CEIL5_1 144 0 0
+(1984,240) to (2000,240) : 17 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    168 : FLAT1_2 168 : FLAT5_1 128 0 0
+(2000,80) to (1984,80) : 17 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    168 : FLAT1_2 168 : FLAT5_1 128 0 0
+(2000,80) to (2000,240) : 4 : 32 : 0
+    0 (112 : BIGDOOR7 / BIGDOOR7 / - )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+    0 (112 : BIGDOOR7 / BIGDOOR7 / - )
+    168 : FLAT1_2 168 : FLAT5_1 128 0 0
+(1984,240) to (1984,80) : 4 : 32 : 0
+    0 (112 : BIGDOOR7 / BIGDOOR7 / - )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+    0 (112 : BIGDOOR7 / BIGDOOR7 / - )
+    168 : FLAT1_2 168 : FLAT5_1 128 0 0
+(2000,64) to (2000,80) : 1 : 0 : 0
+    0 (0 : - / - / DOORBLU2 )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+(1984,80) to (1984,64) : 1 : 0 : 0
+    0 (0 : - / - / DOORBLU2 )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+(1984,256) to (1984,240) : 1 : 0 : 0
+    0 (0 : - / - / DOORBLU2 )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+(2000,240) to (2000,256) : 1 : 0 : 0
+    0 (0 : - / - / DOORBLU2 )
+    168 : FLAT1_2 296 : FLAT1_2 128 0 0
+(-1472,-1920) to (-1344,-1920) : 4 : 114 : 10
+    0 (0 : WOOD1 / WOOD1 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -208 : FLAT5_1 -208 : FLAT5_2 128 0 10
+(-1472,-1920) to (-1472,-1904) : 49 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -208 : FLAT5_2 128 0 10
+(-1344,-1904) to (-1344,-1920) : 49 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -208 : FLAT5_2 128 0 10
+(-1344,-1904) to (-1472,-1904) : 36 : 114 : 10
+    0 (0 : WOOD1 / WOOD1 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 9 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -208 : FLAT5_1 -208 : FLAT5_2 128 0 10
+(-1472,-1904) to (-1472,-1592) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 9 0
+(-1472,-992) to (-1216,-992) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -72 : FLAT5_1 24 : FLAT5_2 128 9 0
+(-1216,-992) to (-1216,-784) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -64 : FLAT5_1 32 : FLAT5_2 128 9 0
+(-1216,-784) to (-848,-784) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -64 : FLAT5_1 32 : FLAT5_2 128 9 0
+(-848,-784) to (-848,-1072) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -64 : FLAT5_1 32 : FLAT5_2 128 9 0
+(-1472,-1072) to (-1472,-992) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -72 : FLAT5_1 24 : FLAT5_2 128 9 0
+(-1472,-1072) to (-1344,-1072) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -80 : FLAT5_1 16 : FLAT5_2 128 9 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -72 : FLAT5_1 24 : FLAT5_2 128 9 0
+(-1344,-1592) to (-1344,-1904) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 9 0
+(-1344,-1560) to (-1344,-1592) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -200 : FLAT5_1 -104 : FLAT5_2 128 9 0
+(-1472,-1592) to (-1472,-1560) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -200 : FLAT5_1 -104 : FLAT5_2 128 9 0
+(-1344,-1528) to (-1344,-1560) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -192 : FLAT5_1 -96 : FLAT5_2 128 9 0
+(-1472,-1560) to (-1472,-1528) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -192 : FLAT5_1 -96 : FLAT5_2 128 9 0
+(-1344,-1496) to (-1344,-1528) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -184 : FLAT5_1 -88 : FLAT5_2 128 9 0
+(-1472,-1528) to (-1472,-1496) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -184 : FLAT5_1 -88 : FLAT5_2 128 9 0
+(-1344,-1464) to (-1344,-1496) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -176 : FLAT5_1 -80 : FLAT5_2 128 9 0
+(-1472,-1496) to (-1472,-1464) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -176 : FLAT5_1 -80 : FLAT5_2 128 9 0
+(-1344,-1432) to (-1344,-1464) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -168 : FLAT5_1 -72 : FLAT5_2 128 9 0
+(-1472,-1464) to (-1472,-1432) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -168 : FLAT5_1 -72 : FLAT5_2 128 9 0
+(-1344,-1400) to (-1344,-1432) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -160 : FLAT5_1 -64 : FLAT5_2 128 9 0
+(-1472,-1432) to (-1472,-1400) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -160 : FLAT5_1 -64 : FLAT5_2 128 9 0
+(-1344,-1368) to (-1344,-1400) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -152 : FLAT5_1 -56 : FLAT5_2 128 9 0
+(-1472,-1400) to (-1472,-1368) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -152 : FLAT5_1 -56 : FLAT5_2 128 9 0
+(-1344,-1336) to (-1344,-1368) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -144 : FLAT5_1 -48 : FLAT5_2 128 9 0
+(-1472,-1368) to (-1472,-1336) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -144 : FLAT5_1 -48 : FLAT5_2 128 9 0
+(-1344,-1304) to (-1344,-1336) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -136 : FLAT5_1 -40 : FLAT5_2 128 9 0
+(-1472,-1336) to (-1472,-1304) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -136 : FLAT5_1 -40 : FLAT5_2 128 9 0
+(-1344,-1272) to (-1344,-1304) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -128 : FLAT5_1 -32 : FLAT5_2 128 9 0
+(-1472,-1304) to (-1472,-1272) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -128 : FLAT5_1 -32 : FLAT5_2 128 9 0
+(-1344,-1240) to (-1344,-1272) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -120 : FLAT5_1 -24 : FLAT5_2 128 9 0
+(-1472,-1272) to (-1472,-1240) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -120 : FLAT5_1 -24 : FLAT5_2 128 9 0
+(-1344,-1208) to (-1344,-1240) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -112 : FLAT5_1 -16 : FLAT5_2 128 9 0
+(-1472,-1240) to (-1472,-1208) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -112 : FLAT5_1 -16 : FLAT5_2 128 9 0
+(-1344,-1176) to (-1344,-1208) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -104 : FLAT5_1 -8 : FLAT5_2 128 9 0
+(-1472,-1208) to (-1472,-1176) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -104 : FLAT5_1 -8 : FLAT5_2 128 9 0
+(-1344,-1144) to (-1344,-1176) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -96 : FLAT5_1 0 : FLAT5_2 128 9 0
+(-1472,-1176) to (-1472,-1144) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -96 : FLAT5_1 0 : FLAT5_2 128 9 0
+(-1344,-1112) to (-1344,-1144) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -88 : FLAT5_1 8 : FLAT5_2 128 9 0
+(-1472,-1144) to (-1472,-1112) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -88 : FLAT5_1 8 : FLAT5_2 128 9 0
+(-1344,-1072) to (-1344,-1112) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -80 : FLAT5_1 16 : FLAT5_2 128 9 0
+(-1472,-1112) to (-1472,-1072) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -80 : FLAT5_1 16 : FLAT5_2 128 9 0
+(-1472,-1592) to (-1344,-1592) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 9 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -200 : FLAT5_1 -104 : FLAT5_2 128 9 0
+(-1472,-1560) to (-1344,-1560) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -200 : FLAT5_1 -104 : FLAT5_2 128 9 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -192 : FLAT5_1 -96 : FLAT5_2 128 9 0
+(-1472,-1528) to (-1344,-1528) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -192 : FLAT5_1 -96 : FLAT5_2 128 9 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -184 : FLAT5_1 -88 : FLAT5_2 128 9 0
+(-1472,-1496) to (-1344,-1496) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -184 : FLAT5_1 -88 : FLAT5_2 128 9 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -176 : FLAT5_1 -80 : FLAT5_2 128 9 0
+(-1472,-1464) to (-1344,-1464) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -176 : FLAT5_1 -80 : FLAT5_2 128 9 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -168 : FLAT5_1 -72 : FLAT5_2 128 9 0
+(-1472,-1432) to (-1344,-1432) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -168 : FLAT5_1 -72 : FLAT5_2 128 9 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -160 : FLAT5_1 -64 : FLAT5_2 128 9 0
+(-1472,-1400) to (-1344,-1400) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -160 : FLAT5_1 -64 : FLAT5_2 128 9 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -152 : FLAT5_1 -56 : FLAT5_2 128 9 0
+(-1472,-1368) to (-1344,-1368) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -152 : FLAT5_1 -56 : FLAT5_2 128 9 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -144 : FLAT5_1 -48 : FLAT5_2 128 9 0
+(-1472,-1336) to (-1344,-1336) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -144 : FLAT5_1 -48 : FLAT5_2 128 9 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -136 : FLAT5_1 -40 : FLAT5_2 128 9 0
+(-1472,-1304) to (-1344,-1304) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -136 : FLAT5_1 -40 : FLAT5_2 128 9 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -128 : FLAT5_1 -32 : FLAT5_2 128 9 0
+(-1472,-1272) to (-1344,-1272) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -128 : FLAT5_1 -32 : FLAT5_2 128 9 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -120 : FLAT5_1 -24 : FLAT5_2 128 9 0
+(-1472,-1240) to (-1344,-1240) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -120 : FLAT5_1 -24 : FLAT5_2 128 9 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -112 : FLAT5_1 -16 : FLAT5_2 128 9 0
+(-1472,-1208) to (-1344,-1208) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -112 : FLAT5_1 -16 : FLAT5_2 128 9 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -104 : FLAT5_1 -8 : FLAT5_2 128 9 0
+(-1472,-1176) to (-1344,-1176) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -104 : FLAT5_1 -8 : FLAT5_2 128 9 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT5_1 0 : FLAT5_2 128 9 0
+(-1472,-1144) to (-1344,-1144) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -96 : FLAT5_1 0 : FLAT5_2 128 9 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -88 : FLAT5_1 8 : FLAT5_2 128 9 0
+(-1472,-1112) to (-1344,-1112) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -88 : FLAT5_1 8 : FLAT5_2 128 9 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -80 : FLAT5_1 16 : FLAT5_2 128 9 0
+(-1216,-1072) to (-1344,-1072) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -72 : FLAT5_1 24 : FLAT5_2 128 9 0
+(-848,-1072) to (-1216,-1072) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -64 : FLAT5_1 32 : FLAT5_2 128 9 0
+(-1216,-992) to (-1216,-1072) : 4 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -72 : FLAT5_1 24 : FLAT5_2 128 9 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -64 : FLAT5_1 32 : FLAT5_2 128 9 0
+(-832,64) to (-832,256) : 68 : 0 : 0
+    0 (0 : WOOD1 / SUPPORT3 / - )
+    -56 : FLAT5_2 304 : F_SKY1 160 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -72 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-768,-576) to (-768,-560) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 72 : CEIL5_2 128 0 7
+(-640,-1072) to (-672,-1072) : 9 : 0 : 0
+    0 (0 : - / - / support3 )
+    72 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-672,-1088) to (-640,-1088) : 9 : 0 : 0
+    0 (0 : - / - / support3 )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+(-800,-1072) to (-832,-1072) : 9 : 0 : 0
+    0 (0 : - / - / support3 )
+    72 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-832,-1088) to (-800,-1088) : 9 : 0 : 0
+    0 (0 : - / - / support3 )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+(-832,-1048) to (-832,-768) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-624,-704) to (-624,-560) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 152 : FLAT5_2 128 9 0
+(-624,-560) to (-640,-560) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 152 : FLAT5_2 128 9 0
+(-640,-576) to (-640,-704) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 184 : FLAT5_2 128 0 0
+(-984,-1792) to (-1016,-1792) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    88 : CEIL5_2 200 : FLAT5_2 128 0 0
+(-584,-1792) to (-616,-1792) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    88 : CEIL5_2 200 : FLAT5_2 128 0 0
+(-960,-1792) to (-984,-1792) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    -216 : LAVA1 200 : FLAT5_2 128 5 0
+(-616,-1792) to (-640,-1792) : 1 : 0 : 0
+    0 (0 : - / - / SUPPORT3 )
+    -216 : LAVA1 200 : FLAT5_2 128 5 0
+(-1280,-1216) to (-1152,-1088) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+(-1152,-1792) to (-1280,-1664) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+(-320,-1664) to (-448,-1792) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    72 : FLAT5_1 200 : FLAT5_2 128 0 0
+(-640,-1808) to (-448,-1808) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-960,-1808) to (-960,-1792) : 1 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-512,-2112) to (-640,-1984) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-960,-1984) to (-1088,-2112) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-512,-2304) to (-512,-2112) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-1088,-2112) to (-1088,-2304) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-1088,-2304) to (-1024,-2304) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-1024,-2304) to (-960,-2176) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-960,-2176) to (-960,-2112) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-640,-2112) to (-640,-2176) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-640,-2176) to (-576,-2304) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-576,-2304) to (-512,-2304) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-448,-1808) to (-320,-1920) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-1280,-1920) to (-1152,-1808) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-832,-2112) to (-768,-2112) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-320,-1920) to (-320,-2176) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-320,-2176) to (-384,-2240) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-384,-2240) to (-384,-2496) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-1216,-2240) to (-1280,-2176) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-1216,-2496) to (-1216,-2240) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-960,-2112) to (-936,-2112) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-664,-2112) to (-640,-2112) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-664,-1984) to (-664,-2112) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -184 : CEIL5_1 -136 : CEIL5_1 128 0 0
+(-640,-1984) to (-664,-1984) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-936,-2112) to (-936,-1984) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -184 : CEIL5_1 -136 : CEIL5_1 128 0 0
+(-936,-1984) to (-960,-1984) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-808,-1984) to (-832,-2112) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -184 : CEIL5_1 -136 : CEIL5_1 128 0 0
+(-768,-2112) to (-792,-1984) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -184 : CEIL5_1 -136 : CEIL5_1 128 0 0
+(-792,-1984) to (-808,-1984) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-664,-1984) to (-792,-1984) : 92 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -184 : CEIL5_1 -136 : CEIL5_1 128 0 0
+(-808,-1984) to (-936,-1984) : 92 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -184 : CEIL5_1 -136 : CEIL5_1 128 0 0
+(-936,-2112) to (-832,-2112) : 92 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -184 : CEIL5_1 -136 : CEIL5_1 128 0 0
+(-768,-2112) to (-664,-2112) : 92 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -184 : CEIL5_1 -136 : CEIL5_1 128 0 0
+(-640,1120) to (-192,1728) : 65 : 0 : 0
+    0 (0 : - / - / GSTONE1 )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(752,1072) to (784,1200) : 5 : 0 : 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / MIDGRATE )
+    200 : FLAT5_2 296 : FLAT5_2 128 0 0
+(1808,832) to (1864,680) : 65 : 0 : 0
+    0 (0 : - / - / GSTONE1 )
+    -112 : LAVA1 -104 : FLOOR7_2 80 0 0
+(1792,968) to (1808,832) : 65 : 0 : 0
+    0 (0 : - / - / GSTONE1 )
+    -112 : LAVA1 -104 : FLOOR7_2 80 0 0
+(1688,984) to (1792,968) : 65 : 0 : 0
+    0 (0 : - / - / GSTONE1 )
+    -112 : LAVA1 -104 : FLOOR7_2 80 0 0
+(-1408,256) to (-1408,464) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -72 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1408,-320) to (-1408,0) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -72 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1408,0) to (-1408,256) : 92 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -72 : FLAT5_1 64 : FLAT5_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -56 : FLAT5_1 8 : FLAT5_2 128 0 0
+(-1424,256) to (-1424,0) : 92 : 0 : 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -120 : FLAT5_1 64 : FLAT5_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -56 : FLAT5_1 8 : FLAT5_2 128 0 0
+(-1424,256) to (-1408,256) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -56 : FLAT5_1 8 : FLAT5_2 128 0 0
+(-1408,0) to (-1424,0) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -56 : FLAT5_1 8 : FLAT5_2 128 0 0
+(-1600,416) to (-1424,256) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -120 : FLAT5_1 64 : FLAT5_2 128 0 0
+(832,1728) to (1216,1120) : 65 : 0 : 0
+    0 (0 : - / - / GSTONE1 )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(1216,1120) to (1216,928) : 65 : 0 : 0
+    0 (0 : - / - / GSTONE1 )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(-640,928) to (-640,1120) : 65 : 0 : 0
+    0 (0 : - / - / GSTONE1 )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(-624,1104) to (-176,1712) : 5 : 0 : 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(816,1712) to (1200,1104) : 5 : 0 : 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(1200,1104) to (1200,928) : 5 : 0 : 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(-624,928) to (-624,1104) : 5 : 0 : 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(-624,928) to (-448,928) : 70 : 0 : 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(-640,928) to (-624,928) : 68 : 0 : 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(1200,928) to (1216,928) : 68 : 0 : 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(392,928) to (1200,928) : 70 : 0 : 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(512,1728) to (832,1728) : 65 : 0 : 0
+    0 (0 : - / - / GSTONE1 )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(-192,1728) to (128,1728) : 65 : 0 : 0
+    0 (0 : - / - / GSTONE1 )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(128,1728) to (192,1792) : 65 : 0 : 0
+    0 (0 : - / - / GSTONE1 )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(192,1792) to (448,1792) : 65 : 0 : 0
+    0 (0 : - / - / GSTONE1 )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(448,1792) to (512,1728) : 65 : 0 : 0
+    0 (0 : - / - / GSTONE1 )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(-176,1712) to (144,1712) : 5 : 0 : 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(144,1712) to (208,1776) : 5 : 0 : 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(208,1776) to (432,1776) : 5 : 0 : 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(432,1776) to (496,1712) : 5 : 0 : 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(496,1712) to (816,1712) : 5 : 0 : 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(1216,928) to (1560,928) : 65 : 0 : 0
+    0 (0 : - / - / GSTONE1 )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(1560,928) to (1664,984) : 65 : 0 : 0
+    0 (0 : - / - / GSTONE1 )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(1664,984) to (1688,984) : 65 : 0 : 0
+    0 (0 : - / - / GSTONE1 )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(1200,928) to (1200,912) : 5 : 0 : 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(1200,912) to (1576,912) : 5 : 0 : 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(1576,912) to (1664,960) : 5 : 0 : 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(1664,960) to (1696,960) : 5 : 0 : 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(1696,960) to (1792,648) : 4 : 0 : 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    -112 : LAVA1 -104 : FLOOR7_2 80 0 0
+(1688,984) to (1696,960) : 4 : 0 : 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+    0 (0 : GSTONE1 / GSTONE1 / - )
+    -112 : LAVA1 -104 : FLOOR7_2 80 0 0
+(-984,952) to (-640,904) : 69 : 0 : 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(-1176,936) to (-984,952) : 69 : 0 : 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(-1320,856) to (-1176,936) : 69 : 0 : 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(-1384,664) to (-1320,856) : 69 : 0 : 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(-1408,480) to (-1384,664) : 69 : 0 : 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(-1216,512) to (-1280,512) : 70 : 0 : 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(-960,976) to (-640,928) : 65 : 0 : 0
+    0 (0 : - / - / GSTONE1 )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(-640,904) to (-624,928) : 69 : 0 : 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    -112 : LAVA1 304 : F_SKY1 144 5 0
+    0 (0 : BROWNHUG / BROWNHUG / - )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(-1184,960) to (-960,976) : 65 : 0 : 0
+    0 (0 : - / - / GSTONE1 )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(-1344,864) to (-1184,960) : 65 : 0 : 0
+    0 (0 : - / - / GSTONE1 )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(-1408,664) to (-1344,864) : 65 : 0 : 0
+    0 (0 : - / - / GSTONE1 )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(-1432,488) to (-1408,664) : 65 : 0 : 0
+    0 (0 : - / - / GSTONE1 )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(-1408,480) to (-1432,488) : 65 : 0 : 0
+    0 (0 : - / - / GSTONE1 )
+    64 : FLAT5_4 216 : F_SKY1 144 0 0
+(-1408,464) to (-1408,480) : 65 : 0 : 0
+    0 (0 : - / - / GSTONE1 )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(-1728,-192) to (-1728,-768) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-1536,-960) to (-1728,-1088) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-1728,-1088) to (-2048,-1088) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-2048,-1088) to (-2240,-960) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-2240,-960) to (-2240,-768) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-2240,-768) to (-2176,-576) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-2176,-576) to (-2048,-448) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-2048,-448) to (-1920,-448) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-1920,-448) to (-1920,-192) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-1728,-192) to (-1920,-192) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -216 : FLAT5_1 64 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-1280,-2176) to (-1280,-2112) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-1280,-1984) to (-1280,-1920) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-1344,-1920) to (-1280,-1984) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 9 13
+(-1280,-2112) to (-1344,-2176) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 9 13
+(-1472,-2176) to (-1536,-2112) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-1536,-1984) to (-1472,-1920) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-1152,-2560) to (-1216,-2496) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-384,-2496) to (-448,-2560) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-448,-2560) to (-640,-2624) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-640,-2624) to (-960,-2624) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-960,-2624) to (-1152,-2560) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-832,-2496) to (-832,-2560) : 68 : 97 : 12
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -200 : GATE2 -112 : FLAT5_2 128 0 11
+(-832,-2560) to (-768,-2560) : 68 : 97 : 12
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -200 : GATE2 -112 : FLAT5_2 128 0 11
+(-768,-2560) to (-768,-2496) : 68 : 97 : 12
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -200 : GATE2 -112 : FLAT5_2 128 0 11
+(-768,-2496) to (-832,-2496) : 68 : 97 : 12
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -200 : GATE2 -112 : FLAT5_2 128 0 11
+(-1280,-2112) to (-1280,-1984) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 13
+(-1856,320) to (-1792,320) : 68 : 97 : 11
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -216 : FLAT5_1 -136 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : GATE2 64 : FLAT5_2 128 0 12
+(-1344,-1984) to (-1344,-1920) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 9 13
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-1344,-2112) to (-1344,-1984) : 68 : 65 : 13
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 13
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-1344,-2176) to (-1344,-2112) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 9 13
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-1344,-1984) to (-1280,-1984) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 13
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 9 0
+(-1280,-2112) to (-1344,-2112) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 13
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 9 0
+(-1376,-2176) to (-1440,-2176) : 17 : 45 : 13
+    0 (0 : - / - / SW1WOOD )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-1344,-2176) to (-1376,-2176) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-1440,-2176) to (-1472,-2176) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-1536,-2112) to (-1536,-1984) : 4 : 114 : 16
+    0 (0 : WOOD1 / WOOD1 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -208 : FLAT5_1 -208 : FLAT5_2 128 0 16
+(-1552,-1984) to (-1552,-2112) : 4 : 114 : 16
+    0 (0 : WOOD1 / WOOD1 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+    0 (0 : WOOD1 / WOOD1 / - )
+    -208 : FLAT5_1 -208 : FLAT5_2 128 0 16
+(-1552,-1984) to (-1536,-1984) : 17 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -208 : FLAT5_2 128 0 16
+(-1536,-2112) to (-1552,-2112) : 17 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -208 : FLAT5_2 128 0 16
+(-1920,-1984) to (-1552,-1984) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-1552,-2112) to (-1792,-2112) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-2040,-712) to (-2072,-816) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-2072,-816) to (-2072,-912) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-2072,-912) to (-1976,-976) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-1976,-976) to (-1816,-976) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-1816,-976) to (-1720,-912) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-1720,-912) to (-1720,-880) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-1720,-880) to (-1880,-880) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-1880,-880) to (-1976,-840) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-1976,-840) to (-2008,-712) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-2032,-168) to (-2176,0) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1920,448) to (-1728,448) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1472,0) to (-1616,-168) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1616,-168) to (-1728,-192) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1920,-192) to (-2032,-168) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1424,0) to (-1472,0) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -120 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-2176,0) to (-2224,0) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -120 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-2224,0) to (-2224,256) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -120 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-2224,256) to (-2048,416) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -120 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-2048,416) to (-1920,448) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -120 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1728,448) to (-1600,416) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -120 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1792,320) to (-1792,256) : 65 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -136 : FLAT5_2 128 0 0
+(-1856,256) to (-1856,320) : 65 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -136 : FLAT5_2 128 0 0
+(-1856,384) to (-1792,384) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : GATE2 64 : FLAT5_2 128 0 12
+(-1920,0) to (-1728,0) : 68 : 123 : 14
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -216 : FLAT5_1 64 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -120 : FLAT5_1 64 : FLAT5_2 240 8 14
+(-1640,88) to (-1512,-8) : 65 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -136 : FLAT5_2 128 0 0
+(-1608,-120) to (-1704,24) : 65 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -136 : FLAT5_2 128 0 0
+(-1512,-8) to (-1608,-120) : 65 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -136 : FLAT5_2 128 0 0
+(-2136,-8) to (-2008,88) : 65 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -136 : FLAT5_2 128 0 0
+(-2040,-120) to (-2136,-8) : 65 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -136 : FLAT5_2 128 0 0
+(-1944,24) to (-2040,-120) : 65 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -136 : FLAT5_2 128 0 0
+(-1472,0) to (-1616,112) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -120 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1760,256) to (-1728,448) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -120 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1920,448) to (-1888,256) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -120 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-2032,112) to (-2176,0) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -120 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-2032,-168) to (-1920,0) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1728,0) to (-1616,-168) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 64 : FLAT5_2 128 0 0
+(-1920,-576) to (-1920,-640) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-1920,-640) to (-1904,-712) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-1904,-712) to (-1856,-736) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-1856,-736) to (-1816,-736) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-1816,-736) to (-1816,-576) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-1816,-576) to (-1920,-576) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-1616,112) to (-1760,256) : 68 : 120 : 14
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -120 : FLAT5_1 64 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -120 : FLAT5_1 64 : FLAT5_2 240 8 14
+(-1704,24) to (-1640,88) : 92 : 123 : 14
+    0 (0 : WOOD1 / SUPPORT3 / - )
+    -216 : FLAT5_1 -136 : FLAT5_2 128 0 0
+    0 (0 : WOOD1 / SUPPORT3 / - )
+    -120 : FLAT5_1 64 : FLAT5_2 240 8 14
+(-2008,88) to (-1944,24) : 92 : 123 : 14
+    0 (0 : WOOD1 / SUPPORT3 / - )
+    -216 : FLAT5_1 -136 : FLAT5_2 128 0 0
+    0 (0 : WOOD1 / SUPPORT3 / - )
+    -120 : FLAT5_1 64 : FLAT5_2 240 8 14
+(-1792,256) to (-1856,256) : 92 : 123 : 14
+    0 (0 : WOOD1 / SUPPORT3 / - )
+    -216 : FLAT5_1 -136 : FLAT5_2 128 0 0
+    0 (0 : WOOD1 / SUPPORT3 / - )
+    -120 : FLAT5_1 64 : FLAT5_2 240 8 14
+(-1888,256) to (-2032,112) : 68 : 120 : 14
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -120 : FLAT5_1 64 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -120 : FLAT5_1 64 : FLAT5_2 240 8 14
+(-1920,0) to (-1944,24) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -120 : FLAT5_1 64 : FLAT5_2 240 8 14
+(-2008,88) to (-2032,112) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -120 : FLAT5_1 64 : FLAT5_2 240 8 14
+(-1616,112) to (-1640,88) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -120 : FLAT5_1 64 : FLAT5_2 240 8 14
+(-1704,24) to (-1728,0) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -120 : FLAT5_1 64 : FLAT5_2 240 8 14
+(-1792,256) to (-1760,256) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -120 : FLAT5_1 64 : FLAT5_2 240 8 14
+(-1888,256) to (-1856,256) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -120 : FLAT5_1 64 : FLAT5_2 240 8 14
+(576,64) to (768,64) : 68 : 0 : 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    184 : STEP2 304 : F_SKY1 144 0 15
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    184 : FLAT5_2 304 : F_SKY1 144 0 0
+(768,0) to (768,64) : 68 : 123 : 15
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    184 : STEP2 304 : F_SKY1 144 0 15
+(576,0) to (768,0) : 68 : 123 : 15
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    184 : STEP2 304 : F_SKY1 144 0 15
+(576,64) to (576,0) : 68 : 123 : 15
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    184 : STEP2 304 : F_SKY1 144 0 15
+(-2008,-712) to (-2040,-712) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -216 : FLAT5_1 -72 : FLAT5_2 128 0 0
+(-1856,320) to (-1856,384) : 65 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : GATE2 64 : FLAT5_2 128 0 12
+(-1792,384) to (-1792,320) : 65 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : GATE2 64 : FLAT5_2 128 0 12
+(768,0) to (768,-128) : 70 : 0 : 8
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+    0 (0 : WOOD5 / WOOD5 / - )
+    64 : FLAT5_4 304 : F_SKY1 144 0 0
+(1864,680) to (1792,648) : 65 : 0 : 0
+    0 (0 : - / - / GSTONE1 )
+    -112 : LAVA1 -104 : FLOOR7_2 80 0 0
+(1808,576) to (1808,560) : 1 : 0 : 0
+    0 (0 : - / - / DOORRED2 )
+    -96 : FLAT1_2 32 : FLAT1_2 128 0 0
+(-1920,-2432) to (-1920,-1984) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-1792,-2112) to (-1792,-2304) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-1792,-2304) to (-1600,-2304) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-1600,-2304) to (-1536,-2360) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-1600,-2496) to (-1600,-2432) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -200 : GATE2 -112 : FLAT5_2 128 0 0
+(-1536,-2496) to (-1600,-2496) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -200 : GATE2 -112 : FLAT5_2 128 0 0
+(-1536,-2432) to (-1536,-2496) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -200 : GATE2 -112 : FLAT5_2 128 0 0
+(-1536,-2360) to (-1536,-2432) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-1536,-2432) to (-1600,-2432) : 68 : 97 : 6
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -200 : GATE2 -112 : FLAT5_2 128 0 0
+(-1600,-2304) to (-1600,-2432) : 68 : 83 : 13
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+    0 (0 : SUPPORT3 / SUPPORT3 / - )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+(-1600,-2432) to (-1920,-2432) : 9 : 0 : 0
+    0 (0 : - / - / WOOD1 )
+    -208 : FLAT5_1 -112 : FLAT5_2 128 0 0
+
+things:384
+(320,352, 180) :11, 23
+(400,352, 180) :3, 0
+(400,288, 180) :4, 0
+(320,352, 180) :1, 0
+(-48,1408, 0) :2047, 7
+(-96,1456, 0) :2047, 7
+(-144,1408, 0) :2047, 7
+(320,1088, 0) :17, 7
+(720,1472, 0) :2046, 7
+(1568,224, 0) :2022, 7
+(-864,32, 0) :46, 7
+(-864,288, 0) :46, 7
+(432,880, 0) :2025, 7
+(1616,400, 270) :44, 7
+(1968,336, 270) :44, 7
+(2352,272, 270) :44, 7
+(2240,624, 270) :44, 7
+(2512,592, 270) :44, 7
+(2512,112, 270) :44, 7
+(2016,224, 270) :44, 7
+(2016,80, 270) :44, 7
+(672,288, 0) :2023, 7
+(672,416, 0) :2024, 7
+(416,448, 0) :8, 7
+(400,400, 180) :2, 0
+(1440,-544, 180) :2004, 0
+(320,352, 180) :14, 7
+(-800,-1520, 90) :38, 7
+(320,1200, 0) :40, 7
+(-480,-416, 270) :8, 7
+(-736,-416, 270) :2010, 7
+(-480,-672, 270) :2010, 7
+(-480,-544, 270) :2049, 7
+(-608,-416, 270) :2049, 7
+(-544,-416, 270) :2008, 7
+(-672,-416, 270) :2008, 7
+(-480,-480, 270) :2008, 7
+(-480,-608, 270) :2008, 7
+(-608,-544, 270) :2005, 7
+(-544,-480, 270) :2019, 7
+(-672,-480, 270) :2011, 7
+(-544,-608, 270) :2011, 7
+(-992,-624, 180) :9, 7
+(-800,-864, 180) :9, 7
+(-864,-640, 180) :9, 4
+(-704,-944, 180) :9, 4
+(-736,-704, 180) :9, 6
+(-1120,-672, 90) :9, 7
+(-736,-1472, 90) :3001, 9
+(-864,-1472, 90) :3001, 9
+(-864,-1600, 90) :9, 15
+(-736,-1600, 90) :3001, 15
+(-800,-1696, 90) :3005, 14
+(-480,-1312, 0) :9, 14
+(-544,-1248, 90) :9, 15
+(-1056,-1248, 90) :9, 15
+(-1120,-1312, 180) :2012, 7
+(-1184,-1728, 180) :9, 14
+(-480,-1760, 0) :9, 14
+(-800,-1248, 90) :3004, 14
+(-736,-1248, 90) :3004, 14
+(-416,-1504, 90) :3004, 14
+(-288,-1440, 180) :3004, 14
+(-288,-1312, 180) :3004, 14
+(-1184,-1568, 90) :3004, 14
+(-608,-1504, 90) :3001, 14
+(-800,-1376, 90) :3001, 15
+(-992,-1504, 90) :3001, 14
+(-944,-1696, 90) :3001, 12
+(-608,-1696, 90) :3001, 12
+(-800,-1568, 0) :3003, 4
+(-1344,-1040, 180) :9, 6
+(288,544, 90) :9, 14
+(352,544, 90) :9, 12
+(320,608, 90) :9, 15
+(-608,-464, 270) :3001, 7
+(-736,-464, 270) :3001, 6
+(-704,-528, 270) :3001, 7
+(-672,-448, 270) :3001, 4
+(-384,832, 0) :9, 4
+(-1632,-880, 0) :9, 4
+(-1312,-880, 0) :9, 4
+(-1376,416, 45) :3001, 15
+(-1376,-224, 45) :3001, 15
+(-1248,96, 0) :3001, 15
+(-928,352, 270) :9, 15
+(-928,-32, 90) :9, 15
+(-1312,224, 0) :3001, 14
+(-1312,-32, 0) :3001, 14
+(-1120,160, 0) :3001, 12
+(-1120,32, 0) :3001, 12
+(-1184,352, 315) :9, 14
+(-1184,-160, 45) :9, 14
+(-1072,-976, 0) :2024, 23
+(-992,-976, 0) :2013, 7
+(-992,-896, 0) :2019, 23
+(-1072,-896, 0) :2022, 23
+(-880,-816, 0) :2049, 7
+(-1200,-816, 0) :2049, 7
+(-880,-1056, 0) :2049, 7
+(-880,-928, 0) :2049, 7
+(-976,-816, 0) :2049, 7
+(-1088,-816, 0) :2049, 7
+(-1152,-1024, 180) :3001, 7
+(-928,-864, 225) :3001, 7
+(-928,-992, 270) :3001, 6
+(-1152,-864, 270) :3001, 4
+(-416,-288, 0) :2046, 7
+(-992,-160, 0) :2046, 7
+(928,-992, 0) :2046, 7
+(1952,-1008, 0) :2046, 7
+(1760,288, 0) :2046, 7
+(2464,480, 0) :2046, 23
+(2528,416, 0) :2047, 23
+(2464,352, 0) :2046, 23
+(2464,224, 0) :2046, 23
+(2400,288, 0) :2046, 23
+(2336,224, 0) :2047, 23
+(2336,96, 0) :2047, 23
+(2272,96, 0) :2047, 23
+(2272,208, 0) :2047, 23
+(2208,208, 0) :2047, 23
+(2208,112, 0) :2047, 23
+(2080,160, 0) :2047, 23
+(1808,288, 0) :2014, 23
+(1808,224, 0) :2014, 23
+(1808,160, 0) :2014, 23
+(1808,96, 0) :2014, 23
+(1808,32, 0) :2014, 23
+(1808,-32, 0) :2014, 23
+(1808,-96, 0) :2014, 23
+(1808,-160, 0) :2014, 23
+(1808,-224, 0) :2014, 23
+(1808,-288, 0) :2014, 23
+(1760,-336, 0) :2014, 23
+(1696,-336, 0) :2014, 23
+(1632,-336, 0) :2014, 23
+(1232,-416, 0) :2014, 23
+(1232,-736, 0) :2014, 23
+(1232,-672, 0) :2014, 23
+(1376,-336, 0) :2014, 23
+(1312,-336, 0) :2014, 23
+(1232,-368, 0) :2014, 23
+(1568,-336, 0) :2014, 23
+(1504,-336, 0) :2014, 23
+(1440,-336, 0) :2014, 23
+(1440,-768, 0) :2014, 23
+(1376,-768, 0) :2014, 23
+(1312,-768, 0) :2014, 23
+(1632,-768, 0) :2014, 23
+(1568,-768, 0) :2014, 23
+(1504,-768, 0) :2014, 23
+(1824,-768, 0) :2014, 23
+(1760,-768, 0) :2014, 23
+(1696,-768, 0) :2014, 23
+(1952,-768, 0) :2014, 23
+(1888,-768, 0) :2014, 23
+(672,-160, 270) :2004, 7
+(672,-352, 270) :9, 6
+(608,-544, 270) :9, 7
+(736,-544, 270) :9, 7
+(672,-800, 270) :3002, 7
+(288,-736, 180) :3001, 15
+(288,-864, 180) :3001, 7
+(32,-1056, 270) :3001, 15
+(672,-224, 270) :9, 4
+(672,-672, 270) :9, 6
+(480,-800, 180) :9, 14
+(96,-864, 225) :9, 14
+(608,-864, 180) :58, 4
+(480,-736, 180) :58, 4
+(32,-1200, 180) :58, 4
+(736,-192, 270) :3006, 14
+(608,-192, 270) :3006, 14
+(1376,-880, 90) :3002, 14
+(1584,-928, 90) :3002, 15
+(1760,-864, 90) :3002, 15
+(1120,-928, 90) :3002, 12
+(1952,-864, 90) :2002, 15
+(1312,-816, 90) :2012, 15
+(1760,-816, 90) :2012, 15
+(1632,-816, 90) :2048, 15
+(928,-544, 90) :2048, 15
+(1184,-544, 90) :2048, 15
+(1760,-288, 90) :2048, 15
+(1440,160, 90) :2001, 23
+(1568,160, 90) :2008, 15
+(1568,-32, 90) :2008, 15
+(1504,224, 90) :2008, 15
+(1312,224, 90) :2008, 15
+(1952,-544, 90) :2006, 31
+(1952,-480, 90) :17, 31
+(1952,-608, 90) :17, 31
+(1376,16, 225) :3001, 15
+(1696,208, 270) :3001, 15
+(1696,-96, 270) :3001, 15
+(800,32, 315) :3001, 14
+(1056,-352, 90) :3001, 14
+(992,-672, 90) :3001, 12
+(1120,-672, 90) :3001, 12
+(1248,-160, 135) :3001, 12
+(1120,-32, 270) :3006, 12
+(1504,-288, 180) :3006, 15
+(1504,-96, 180) :3006, 12
+(32,-32, 90) :3006, 12
+(224,144, 90) :3006, 12
+(-864,416, 0) :3006, 15
+(-480,288, 0) :3006, 12
+(-736,-176, 0) :3006, 15
+(-928,-224, 0) :3002, 9
+(-928,-224, 0) :58, 14
+(-736,-32, 0) :58, 14
+(-480,16, 0) :9, 15
+(-160,32, 0) :9, 14
+(-608,400, 0) :9, 12
+(-224,416, 0) :9, 12
+(320,1024, 270) :3003, 12
+(320,1024, 270) :3005, 10
+(320,1024, 270) :9, 9
+(928,576, 0) :9, 12
+(1568,-160, 270) :2048, 15
+(1440,-160, 270) :2048, 15
+(1696,32, 270) :2048, 9
+(1120,32, 270) :2048, 9
+(544,32, 270) :2048, 9
+(-32,-96, 270) :2048, 9
+(672,336, 270) :2048, 9
+(-928,-816, 90) :2010, 7
+(-1040,-816, 90) :2010, 7
+(-1152,-816, 90) :2010, 7
+(-880,-864, 90) :2010, 7
+(-880,-992, 90) :2010, 7
+(1296,1008, 0) :2010, 7
+(-1152,896, 0) :2010, 7
+(1072,784, 0) :3006, 9
+(-672,736, 0) :3006, 9
+(-336,640, 0) :3005, 10
+(1232,800, 0) :3005, 10
+(640,704, 0) :3003, 12
+(-768,656, 0) :3003, 12
+(368,1440, 0) :3001, 15
+(-304,1232, 0) :9, 14
+(64,1232, 0) :9, 15
+(480,1120, 0) :9, 14
+(736,1360, 0) :9, 15
+(-96,1360, 0) :9, 15
+(704,1248, 0) :3004, 15
+(480,1088, 0) :3004, 9
+(144,1088, 0) :3004, 15
+(-96,1248, 0) :3004, 15
+(672,1088, 0) :9, 15
+(496,1232, 0) :9, 12
+(208,1216, 0) :9, 4
+(-32,1088, 0) :9, 15
+(256,352, 0) :2001, 7
+(224,352, 0) :2049, 7
+(1904,160, 0) :3001, 15
+(1888,-160, 90) :3001, 15
+(1504,-416, 0) :3001, 15
+(1632,-560, 45) :3001, 15
+(1888,-672, 90) :3001, 15
+(1760,-688, 45) :3002, 15
+(1456,-672, 45) :3002, 14
+(1856,288, 315) :9, 14
+(1856,0, 45) :9, 14
+(1888,-352, 90) :9, 12
+(1792,-464, 45) :58, 12
+(1408,-512, 0) :58, 12
+(1952,416, 180) :58, 15
+(2320,352, 225) :3001, 15
+(2464,608, 225) :3001, 15
+(2528,288, 135) :9, 15
+(2400,160, 90) :9, 15
+(2144,160, 45) :9, 15
+(-544,-288, 180) :2012, 7
+(-880,-304, 180) :2012, 7
+(928,-240, 180) :2012, 7
+(992,160, 180) :2012, 7
+(1952,-32, 180) :2007, 7
+(1888,288, 180) :2007, 7
+(1696,-416, 180) :2007, 7
+(1952,-240, 180) :2007, 7
+(1696,-688, 180) :2007, 7
+(1568,-528, 180) :2007, 7
+(1568,-592, 180) :2007, 7
+(1632,-384, 180) :2008, 7
+(1376,-384, 180) :2008, 7
+(1280,-432, 180) :2008, 7
+(1280,-672, 180) :2008, 7
+(1440,-736, 180) :2008, 7
+(1664,-736, 180) :2008, 7
+(1952,-720, 180) :2008, 7
+(1504,-544, 0) :11, 23
+(672,-416, 90) :11, 23
+(-1904,-816, 0) :11, 23
+(-1328,-1968, 90) :46, 7
+(-1328,-2128, 90) :46, 7
+(-1488,-2128, 90) :46, 7
+(-1488,-1968, 90) :46, 7
+(-1440,-2048, 90) :2003, 7
+(-1440,-1984, 90) :2010, 7
+(-1440,-2112, 90) :2010, 7
+(-1504,-2048, 90) :2010, 7
+(-1376,-2048, 90) :2010, 7
+(-1248,480, 0) :2024, 7
+(-1824,352, 270) :14, 7
+(-800,-2528, 90) :14, 7
+(1312,-480, 90) :30, 23
+(1376,-464, 90) :30, 23
+(1376,-624, 90) :30, 23
+(1312,-624, 90) :30, 23
+(1248,-544, 90) :30, 23
+(1248,-480, 90) :30, 23
+(1248,-608, 90) :30, 23
+(-1600,-2048, 90) :2012, 23
+(-1680,-2048, 90) :2012, 23
+(-1616,-80, 0) :2046, 7
+(-1552,-16, 0) :2046, 7
+(-2048,-80, 0) :2046, 7
+(-2096,-16, 0) :2046, 7
+(-1584,-48, 0) :2012, 7
+(-2080,-48, 0) :2012, 7
+(-1632,16, 135) :58, 1
+(-2016,16, 45) :58, 1
+(-1648,16, 135) :3005, 2
+(-2016,16, 45) :3005, 2
+(-1632,0, 45) :3003, 4
+(-2032,0, 45) :3003, 4
+(-1824,288, 270) :58, 7
+(-1632,272, 45) :49, 7
+(-1904,-224, 45) :44, 7
+(-1728,-32, 45) :44, 7
+(-1920,-32, 45) :44, 7
+(-1744,256, 45) :44, 7
+(-1600,128, 45) :44, 7
+(-2048,128, 45) :44, 7
+(-1920,256, 45) :44, 7
+(-1472,256, 45) :2008, 7
+(-1456,144, 45) :2010, 7
+(-1456,32, 45) :2008, 7
+(-2080,352, 45) :2010, 7
+(-1696,400, 45) :2008, 7
+(-2176,256, 45) :2008, 7
+(-2208,144, 45) :2010, 7
+(-2208,32, 45) :2008, 7
+(-1568,352, 45) :2010, 7
+(-1952,400, 45) :2008, 7
+(-1664,320, 225) :9, 7
+(-1536,192, 180) :3001, 7
+(-2048,192, 0) :9, 7
+(-2048,304, 315) :58, 6
+(-2160,144, 315) :3001, 6
+(-1584,256, 180) :58, 4
+(-1760,-224, 45) :44, 7
+(-1504,96, 45) :52, 7
+(-1968,336, 45) :51, 7
+(-2208,224, 45) :27, 7
+(-2064,-592, 315) :58, 15
+(-1776,-512, 270) :58, 15
+(-1872,-1024, 0) :9, 15
+(-2176,-864, 315) :9, 15
+(-1824,-384, 270) :9, 15
+(-1856,-816, 270) :2011, 15
+(-1872,-496, 270) :2011, 15
+(-1744,-1056, 270) :2011, 15
+(-2208,-784, 270) :2011, 15
+(-1824,-816, 0) :2003, 23
+(-1264,-944, 0) :2046, 23
+(-800,-2144, 270) :3003, 7
+(-448,-2144, 270) :58, 7
+(-1152,-2144, 270) :58, 7
+(-576,-2368, 225) :9, 7
+(-1024,-2368, 315) :9, 7
+(-864,-2208, 270) :9, 7
+(-736,-2208, 270) :9, 7
+(-416,-2336, 315) :2046, 7
+(-416,-2464, 315) :2046, 7
+(-800,-2592, 315) :2046, 7
+(-672,-2592, 315) :2046, 7
+(-928,-2592, 315) :2046, 7
+(-1184,-2464, 315) :2046, 7
+(-1184,-2336, 315) :2046, 7
+(-1200,-1888, 315) :2046, 7
+(-416,-1888, 315) :2046, 7

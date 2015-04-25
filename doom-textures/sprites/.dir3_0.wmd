@@ -1,0 +1,8 @@
+BrowserHeight0 = 438;
+ViewerShelf0 = /flem/doom/gfx/sprites;
+BrowserWidth0 = 458;
+BrowserView0 = Browser;
+BrowserRoot0 = /flem/doom/gfx/sprites;
+BrowserShelfRows0 = 1;
+BrowserDir0 = /flem/doom/gfx/sprites;
+BrowserTop0 = "301 509";

@@ -1,0 +1,20 @@
+ThingStripper = {
+    ACTIONS = {
+	deleteThing:;
+	doStrippingAllMaps:;
+	addThing:;
+	displayPanel:;
+	doStrippingOneMap:;
+    };
+    OUTLETS = {
+	thingStripPanel_i;
+	thingBrowser_i;
+	thingList_i;
+    };
+    SUPERCLASS = Object;
+};
+FirstResponder = {
+    ACTIONS = {
+    };
+    SUPERCLASS = Object;
+};

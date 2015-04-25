@@ -1,0 +1,49 @@
+ThingWindow = {
+    SUPERCLASS = Window;
+};
+FirstResponder = {
+    ACTIONS = {
+    };
+    SUPERCLASS = Object;
+};
+FloatingPanel = {
+    ACTIONS = {
+    };
+    OUTLETS = {
+    };
+    SUPERCLASS = Panel;
+};
+ThingPanel = {
+    ACTIONS = {
+	confirmCorrectNameEntry:;
+	suggestNewType:;
+	addThing:;
+	changeDifficultyDisplay:;
+	chooseThing:;
+	setAngle:;
+	updateThingData:;
+	verifyIconName:;
+	unlinkIcon:;
+	menuTarget:;
+	assignIcon:;
+	formTarget:;
+    };
+    OUTLETS = {
+	difficulty_i;
+	thingAngle_i;
+	updateButton_i;
+	iconField_i;
+	nameField_i;
+	fields_i;
+	network_i;
+	addButton_i;
+	thingColor_i;
+	window_i;
+	diffDisplay_i;
+	masterList_i;
+	ambush_i;
+	count_i;
+	thingBrowser_i;
+    };
+    SUPERCLASS = Object;
+};

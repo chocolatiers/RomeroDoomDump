@@ -1,0 +1,19 @@
+DOCICONFILES = ();
+FILESTABLE = {
+    OTHER_SOURCES = (Makefile.preamble, Makefile.postamble);
+    M_FILES = (buildbsp.m, doombsp.m, doomload.m, drawing.m, saveblocks.m, savebsp.m, savesectors.m, Wadfile.m, saveconnect.m);
+    OTHER_LIBS = (NeXT_s);
+    H_FILES = (cmdlib.h, doombsp.h, idfunctions.h, Wadfile.h);
+    OTHER_LINKED = ();
+    C_FILES = (cmdlib.c);
+};
+LOCALIZABLE_FILES = {
+};
+PROJECTVERSION = 1.1;
+INSTALLDIR = /LocalApps;
+COMPILEROPTIONS = "-O2";
+LINKEROPTIONS = "";
+PROJECTTYPE = Tool;
+PROJECTNAME = doombsp;
+GENERATEMAIN = YES;
+DOCEXTENSIONS = ();

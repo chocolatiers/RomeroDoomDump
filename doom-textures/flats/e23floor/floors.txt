@@ -1,0 +1,39 @@
+SPITWAD v1.0 by John Carmack, copyright (c) 1992 Id Software
+
+WAD file    : floors.wad
+numlumps    : 26
+infotableofs: 106508
+
+lump name       size  filepos    0xsize 0xfpos
+---- -------- ------ --------    ------ ------
+   0 SFLR6_1    4096       12      1000      c
+   1 SFLR6_4    4096     4108      1000   100c
+   2 SFLR7_1    4096     8204      1000   200c
+   3 SFLR7_4    4096    12300      1000   300c
+   4 GATE1      4096    16396      1000   400c
+   5 GATE2      4096    20492      1000   500c
+   6 GATE3      4096    24588      1000   600c
+   7 MFLR8_1    4096    28684      1000   700c
+   8 FWATER1    4096    32780      1000   800c
+   9 FWATER2    4096    36876      1000   900c
+  10 FWATER3    4096    40972      1000   a00c
+  11 FWATER4    4096    45068      1000   b00c
+  12 SWATER1    4096    49164      1000   c00c
+  13 SWATER2    4096    53260      1000   d00c
+  14 SWATER3    4096    57356      1000   e00c
+  15 SWATER4    4096    61452      1000   f00c
+  16 LAVA1      4096    65548      1000  1000c
+  17 LAVA2      4096    69644      1000  1100c
+  18 LAVA3      4096    73740      1000  1200c
+  19 LAVA4      4096    77836      1000  1300c
+  20 DEM1_1     4096    81932      1000  1400c
+  21 DEM1_2     4096    86028      1000  1500c
+  22 DEM1_3     4096    90124      1000  1600c
+  23 DEM1_4     4096    94220      1000  1700c
+  24 DEM1_5     4096    98316      1000  1800c
+  25 DEM1_6     4096   102412      1000  1900c
+
+File size:   106924
+Data size:   106496
+Info size:      428
+Wasted   :        0

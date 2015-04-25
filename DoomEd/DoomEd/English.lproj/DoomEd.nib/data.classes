@@ -1,0 +1,492 @@
+TextureEditor = {
+    SUPERCLASS = Window;
+};
+EditWorld = {
+    ACTIONS = {
+	flipSelectedLines:;
+	windowWillClose:;
+	seperatePoints:;
+	newWindow:;
+	delete:;
+	copy:;
+	saveDoomEdMapBSP:;
+	fusePoints:;
+	paste:;
+	saveWorld:;
+	cut:;
+	appWillTerminate:;
+	print:;
+    };
+    OUTLETS = {
+	copyLines_i;
+	windowlist_i;
+	copyThings_i;
+    };
+    SUPERCLASS = Object;
+};
+DoomProject = {
+    ACTIONS = {
+	removeMap:;
+	loadAndSaveAllMaps:;
+	newProject:;
+	toggleWeapons:;
+	togglePanel:;
+	toggleItems:;
+	openMap:;
+	printSingleMapStatistics:;
+	printPrefs:;
+	displayLog:;
+	toggleMonsters:;
+	saveProject:;
+	newMap:;
+	printMap:;
+	printAllMaps:;
+	reloadProject:;
+	openProject:;
+	menuTarget:;
+	printStatistics:;
+    };
+    OUTLETS = {
+	printPrefWindow_i;
+	maps_i;
+	thingPanel_i;
+	projectpath_i;
+	thermoTitle_i;
+	thermoView_i;
+	thermoMsg_i;
+	window_i;
+	wadpath_i;
+	mapNameField_i;
+	thermoWindow_i;
+	findPanel_i;
+    };
+    SUPERCLASS = Object;
+};
+FloatingPanel = {
+    ACTIONS = {
+    };
+    OUTLETS = {
+    };
+    SUPERCLASS = Panel;
+};
+ToolPanel = {
+    ACTIONS = {
+	toolChanged:;
+	showButton:;
+    };
+    OUTLETS = {
+	ycoord_i;
+	xcoord_i;
+	toolmatrix_i;
+    };
+    SUPERCLASS = Object;
+};
+TextureEdit = {
+    ACTIONS = {
+	createTextureName:;
+	findPatch:;
+	togglePatchLock:;
+	sortDown:;
+	finishTexture:;
+	sortUp:;
+	createTextureAbort:;
+	outlineWasSet:;
+	sizeChanged:;
+	deleteCurrentPatch:;
+	menuTarget:;
+	changedWidthOrHeight:;
+	makeNewTexture:;
+	createTextureDone:;
+	fillWithPatch:;
+    };
+    OUTLETS = {
+	patchNameField_i;
+	centerPatch_i;
+	loadPanel_i;
+	createDone_i;
+	texturePatchScrollView_i;
+	window_i;
+	texturePatchNameField_i;
+	textureNameField_i;
+	selectedTexturePatches;
+	textureWidthField_i;
+	createHeight_i;
+	textureHeightField_i;
+	texturePatchView_i;
+	lockedPatch_i;
+	patchHeightField_i;
+	texturePatchYField_i;
+	createWidth_i;
+	scrollView_i;
+	patchWidthField_i;
+	textureView_i;
+	patchImages;
+	outlinePatches_i;
+	texturePatchWidthField_i;
+	createName_i;
+	texturePatchXField_i;
+	texturePatchHeightField_i;
+	createTexture_i;
+    };
+    SUPERCLASS = Object;
+};
+TexturePalette = {
+    ACTIONS = {
+	saveAllTexturesAsLBM:;
+	showTextureInMap:;
+	searchWidth:;
+	searchHeight:;
+	menuTarget:;
+	doSaveAllTexturesAsLBM:;
+	searchForTexture:;
+	saveTextureLBM:;
+    };
+    OUTLETS = {
+	heightField_i;
+	titleField_i;
+	newTextures;
+	texturePatches;
+	texturePalScrView_i;
+	texturePalView_i;
+	window_i;
+	patchField_i;
+	searchField_i;
+	widthField_i;
+	widthSearch_i;
+	lsTextField_i;
+	heightSearch_i;
+	allTextures;
+    };
+    SUPERCLASS = Object;
+};
+PatchPalette = {
+    ACTIONS = {
+	menuTarget:;
+    };
+    OUTLETS = {
+	window_i;
+    };
+    SUPERCLASS = Object;
+};
+FirstResponder = {
+    ACTIONS = {
+	redraw:;
+	printInfo:;
+	testSpeed:;
+    };
+    SUPERCLASS = Object;
+};
+TextureRemapper = {
+    ACTIONS = {
+	menuTarget:;
+	remapGetFromTP:;
+	doRemapping:;
+    };
+    OUTLETS = {
+	remapPanel_i;
+	newTexture_i;
+	originalTexture_i;
+    };
+    SUPERCLASS = Object;
+};
+ThingPanel = {
+    ACTIONS = {
+	addThing:;
+	formTarget:;
+	chooseThing:;
+	menuTarget:;
+	updateThingData:;
+	delThing:;
+    };
+    OUTLETS = {
+	delButton_i;
+	addButton_i;
+	masterList_i;
+	window_i;
+	nameField_i;
+	thingBrowser_i;
+	fields_i;
+	thingColor_i;
+    };
+    SUPERCLASS = Object;
+};
+LineSpecialRemapper = {
+    ACTIONS = {
+	menuTarget:;
+    };
+    OUTLETS = {
+	remapper_i;
+    };
+    SUPERCLASS = Object;
+};
+TextureWindow = {
+    SUPERCLASS = Window;
+};
+Coordinator = {
+    ACTIONS = {
+	toggleDebug:;
+	redraw:;
+    };
+    OUTLETS = {
+	infoPanel_i;
+	toolPanel_i;
+    };
+    SUPERCLASS = Object;
+};
+ProjectInfo = {
+    ACTIONS = {
+	deleteInfo:;
+	done:;
+	chooseFile:;
+	addInfo:;
+	menuTarget:;
+    };
+    OUTLETS = {
+	browser_i;
+	textureName_i;
+	openPanel_i;
+	panel_i;
+	storage_i;
+	WADfield_i;
+    };
+    SUPERCLASS = Object;
+};
+SpecialList = {
+    ACTIONS = {
+	suggestValue:;
+	addSpecial:;
+	chooseSpecial:;
+	validateSpecialString:;
+    };
+    OUTLETS = {
+	delegate;
+	specialDesc_i;
+	specialList_i;
+	specialPanel_i;
+	specialBrowser_i;
+	specialValue_i;
+    };
+    SUPERCLASS = Object;
+};
+ThermoView = {
+    SUPERCLASS = View;
+};
+SettingsPanel = {
+    ACTIONS = {
+	menuTarget:;
+    };
+    SUPERCLASS = Object;
+};
+LinePanel = {
+    ACTIONS = {
+	blockChanged:;
+	sideChanged:;
+	setTP:;
+	decFirstCol:;
+	sideRadioTarget:;
+	twosideChanged:;
+	setFCVal:;
+	suggestTagValue:;
+	activateSpecialList:;
+	toppegChanged:;
+	getFromTP:;
+	specialChanged:;
+	bottompegChanged:;
+	menuTarget:;
+	tagChanged:;
+	zeroEntry:;
+	popUpCalc:;
+	incFirstCol:;
+	secretChanged:;
+    };
+    OUTLETS = {
+	p1_i;
+	specialPanel_i;
+	sideform_i;
+	p2_i;
+	tagField_i;
+	bottompeg_i;
+	special_i;
+	fc_currentVal_i;
+	window_i;
+	fc_incDec_i;
+	twosided_i;
+	firstColCalc_i;
+	pblock_i;
+	sideradio_i;
+	secret_i;
+	toppeg_i;
+    };
+    SUPERCLASS = Object;
+};
+PatchPaletteView = {
+    SUPERCLASS = View;
+};
+PlanePalette = {
+    ACTIONS = {
+	menuTarget:;
+    };
+    OUTLETS = {
+	window_i;
+	planeImages;
+    };
+    SUPERCLASS = Object;
+};
+ThingPalette = {
+    ACTIONS = {
+	menuTarget:;
+    };
+    OUTLETS = {
+	thingPalView_i;
+	thingPalScrView_i;
+	warningField_i;
+    };
+    SUPERCLASS = Object;
+};
+BlockWorld = {
+    ACTIONS = {
+    };
+    OUTLETS = {
+    };
+    SUPERCLASS = Object;
+};
+FlatRemapper = {
+    ACTIONS = {
+	deleteFromList:;
+	addToList:;
+	doRemapping:;
+	remapGetFromSE:;
+	menuTarget:;
+    };
+    OUTLETS = {
+	browser_i;
+	originalFlat_i;
+	matrix_i;
+	status_i;
+	remapPanel_i;
+	storage_i;
+	newFlat_i;
+    };
+    SUPERCLASS = Object;
+};
+TextLog = {
+    ACTIONS = {
+	display:;
+	resetText:;
+    };
+    OUTLETS = {
+	text_i;
+	window_i;
+    };
+    SUPERCLASS = Object;
+};
+SectorEditor = {
+    ACTIONS = {
+	totalHeightAdjust:;
+	lightSliderChanged:;
+	searchForTaggedSector:;
+	lightChanged:;
+	searchForTaggedLine:;
+	locateFlat:;
+	lightLevelUp:;
+	activateSpecialList:;
+	ceilingAdjust:;
+	menuTarget:;
+	floorAdjust:;
+	getTagValue:;
+	lightLevelDown:;
+	CorFheightChanged:;
+    };
+    OUTLETS = {
+	lightSlider_i;
+	fheightfield_i;
+	specialPanel_i;
+	flatImages;
+	curFlat_i;
+	special_i;
+	floor_i;
+	floorAndCeiling_i;
+	flatPalView_i;
+	cheightfield_i;
+	cflatname_i;
+	window_i;
+	fflatname_i;
+	flatScrPalView_i;
+	sectorEditView_i;
+	ceiling_i;
+	tag_i;
+	lightLevel_i;
+	totalHeight_i;
+    };
+    SUPERCLASS = Object;
+};
+ThingRemapper = {
+    ACTIONS = {
+	menuTarget:;
+    };
+    OUTLETS = {
+	remapper_i;
+    };
+    SUPERCLASS = Object;
+};
+PreferencePanel = {
+    ACTIONS = {
+	menuTarget:;
+	colorChanged:;
+	selectWorld:;
+    };
+    OUTLETS = {
+	defworksheet_i;
+	floorcolor_i;
+	unusualcolor_i;
+	gridcolor_i;
+	window_i;
+	wallcolor_i;
+	ceilingcolor_i;
+	areacolor_i;
+	lightcolor_i;
+    };
+    SUPERCLASS = Object;
+};
+FindLine = {
+    ACTIONS = {
+	menuTarget:;
+	findLine:;
+    };
+    OUTLETS = {
+	status_i;
+	window_i;
+    };
+    SUPERCLASS = Object;
+};
+PlanePalView = {
+    SUPERCLASS = View;
+};
+PatchWindow = {
+    SUPERCLASS = Window;
+};
+SectorPalette = {
+    ACTIONS = {
+	menuTarget:;
+    };
+    OUTLETS = {
+    };
+    SUPERCLASS = Object;
+};
+ThingStripper = {
+    ACTIONS = {
+	deleteThing:;
+	doStripping:;
+	addThing:;
+	displayPanel:;
+    };
+    OUTLETS = {
+	thingPanel_i;
+	thingList_i;
+	thingBrowser_i;
+    };
+    SUPERCLASS = Object;
+};
+PlaneWindow = {
+    SUPERCLASS = Window;
+};

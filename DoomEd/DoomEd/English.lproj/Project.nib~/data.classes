@@ -1,0 +1,31 @@
+DoomProject = {
+    ACTIONS = {
+	printSingleMapStatistics:;
+	openMap:;
+	menuTarget:;
+	printStatistics:;
+	newMap:;
+	loadAndSaveAllMaps:;
+	openProject:;
+	saveProject:;
+	newProject:;
+	removeMap:;
+	displayLog:;
+	reloadProject:;
+    };
+    OUTLETS = {
+	projectpath_i;
+	thingPanel_i;
+	wadpath_i;
+	findPanel_i;
+	mapNameField_i;
+	window_i;
+	maps_i;
+    };
+    SUPERCLASS = Object;
+};
+FirstResponder = {
+    ACTIONS = {
+    };
+    SUPERCLASS = Object;
+};

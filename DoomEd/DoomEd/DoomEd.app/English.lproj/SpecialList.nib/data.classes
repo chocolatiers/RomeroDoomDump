@@ -1,0 +1,25 @@
+SpecialListWindow = {
+    SUPERCLASS = Window;
+};
+SpecialList = {
+    ACTIONS = {
+	suggestValue:;
+	addSpecial:;
+	chooseSpecial:;
+	validateSpecialString:;
+    };
+    OUTLETS = {
+	delegate;
+	specialDesc_i;
+	specialList_i;
+	specialPanel_i;
+	specialBrowser_i;
+	specialValue_i;
+    };
+    SUPERCLASS = Object;
+};
+FirstResponder = {
+    ACTIONS = {
+    };
+    SUPERCLASS = Object;
+};
