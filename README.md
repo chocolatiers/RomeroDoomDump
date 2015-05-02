@@ -1,7 +1,17 @@
-These are the Doom development files released in December 2014 and
-April 2015 by John Romero.
+This repository is a collection of Doom development files that have been
+relased by John Romero.
 
 Each directory corresponds to one of the .zip files:
+
+* **doom_unreleased_music**: MIDI files cut during Doom's development,
+  originally composed by Bobby Prince, and released on Romero's website
+  ([Original blog post](https://web.archive.org/web/20100420075624/http://planetromero.com/2007/06/doom-archaeology),
+  2010-04-20). Some of these are alternative versions of tracks that made
+  it into the game. Some more information
+  [can be found on the Doom wiki](http://doomwiki.org/wiki/Unused_Doom_music),
+  along with
+  [an analysis](http://doomwiki.org/wiki/Musical_inspirations_behind_Doom%27s_music)
+  of some of the metadata from these files.
 
 * **DOOMART1993**: Assorted collection of artwork, unused sprites, photos
   and sketches from Doom's development, that were posted on Twitter by
