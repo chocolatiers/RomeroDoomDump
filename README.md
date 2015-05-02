@@ -1,7 +1,8 @@
 This repository is a collection of Doom development files that have been
 relased by John Romero.
 
-Each directory corresponds to one of the .zip files:
+The directories are named to match the names of the original .zip files,
+hence the irregular naming.
 
 * **doom_unreleased_music**: MIDI files cut during Doom's development,
   originally composed by Bobby Prince, and released on Romero's website
@@ -45,6 +46,8 @@ Each directory corresponds to one of the .zip files:
   from this directory to PNG format that can be viewed in a browser
   ([Doomworld post](http://www.doomworld.com/vb/post/1363830), 2015-04-22).
 
-More information can be found
+The original .zip files can be found
+[on archive.org](https://archive.org/details/2015JohnRomeroDoomDump), while
+information about the 2015 releases can be found
 [on the Doom Wiki](http://doomwiki.org/wiki/2015_Doom_source_data_release).
 
